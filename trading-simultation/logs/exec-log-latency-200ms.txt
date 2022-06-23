@@ -1,0 +1,2041 @@
+2022-06-15 15:14:59,534 | >>>>>> SIMULATION STARTED <<<<<<<<<<
+
+2022-06-15 15:14:59,535 | ------ FINISHING AT 2022-06-16 08:19:10.069730 -------
+
+2022-06-15 15:15:00,076 | Executing order ID: 2 ACTION SELL.
+2022-06-15 15:15:00,244 | Order ID: 2  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:00,283 | Executing order ID: 3 ACTION BUY.
+2022-06-15 15:15:00,440 | Order ID: 3  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:00,474 | Order ID: 3  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:00,510 | Executing order ID: 4 ACTION HOLD.
+2022-06-15 15:15:00,545 | Executing order ID: 5 ACTION BUY.
+2022-06-15 15:15:00,692 | Order ID: 5  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:00,723 | Order ID: 5  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:00,761 | Executing order ID: 6 ACTION SELL.
+2022-06-15 15:15:00,914 | Order ID: 6  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:00,946 | Order ID: 6  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:00,984 | Executing order ID: 7 ACTION SELL.
+2022-06-15 15:15:01,161 | Order ID: 7  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:01,204 | Executing order ID: 8 ACTION SELL.
+2022-06-15 15:15:01,373 | Order ID: 8  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:01,413 | Executing order ID: 9 ACTION BUY.
+2022-06-15 15:15:01,580 | Order ID: 9  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:01,623 | Executing order ID: 10 ACTION HOLD.
+2022-06-15 15:15:01,672 | Executing order ID: 11 ACTION HOLD.
+2022-06-15 15:15:01,720 | Executing order ID: 12 ACTION HOLD.
+2022-06-15 15:15:01,766 | Executing order ID: 13 ACTION SELL.
+2022-06-15 15:15:01,931 | Order ID: 13  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:01,993 | Executing order ID: 14 ACTION SELL.
+2022-06-15 15:15:02,144 | Order ID: 14  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:02,175 | Order ID: 14  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:02,218 | Executing order ID: 15 ACTION SELL.
+2022-06-15 15:15:02,367 | Order ID: 15  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:02,406 | Order ID: 15  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:02,449 | Executing order ID: 16 ACTION SELL.
+2022-06-15 15:15:02,603 | Order ID: 16  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:02,645 | Order ID: 16  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:02,687 | Executing order ID: 17 ACTION BUY.
+2022-06-15 15:15:02,826 | Order ID: 17  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:02,866 | Order ID: 17  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:02,909 | Executing order ID: 18 ACTION BUY.
+2022-06-15 15:15:03,049 | Order ID: 18  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:03,085 | Order ID: 18  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:03,122 | Executing order ID: 19 ACTION SELL.
+2022-06-15 15:15:03,260 | Order ID: 19  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:03,305 | Order ID: 19  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:03,340 | Executing order ID: 20 ACTION SELL.
+2022-06-15 15:15:03,475 | Order ID: 20  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:03,510 | Order ID: 20  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:03,545 | Executing order ID: 21 ACTION BUY.
+2022-06-15 15:15:03,692 | Order ID: 21  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:03,723 | Order ID: 21  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:03,768 | Executing order ID: 22 ACTION SELL.
+2022-06-15 15:15:03,900 | Order ID: 22  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:03,932 | Order ID: 22  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:03,975 | Executing order ID: 23 ACTION SELL.
+2022-06-15 15:15:04,123 | Order ID: 23  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:04,163 | Order ID: 23  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:04,206 | Executing order ID: 24 ACTION BUY.
+2022-06-15 15:15:04,340 | Order ID: 24  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:04,370 | Order ID: 24  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:04,409 | Executing order ID: 25 ACTION BUY.
+2022-06-15 15:15:04,548 | Order ID: 25  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:04,580 | Order ID: 25  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:04,623 | Executing order ID: 26 ACTION BUY.
+2022-06-15 15:15:04,792 | Order ID: 26  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:04,832 | Executing order ID: 27 ACTION BUY.
+2022-06-15 15:15:04,966 | Order ID: 27  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:04,997 | Order ID: 27  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:05,042 | Executing order ID: 28 ACTION BUY.
+2022-06-15 15:15:05,198 | Order ID: 28  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:05,239 | Order ID: 28  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:05,285 | Executing order ID: 29 ACTION BUY.
+2022-06-15 15:15:05,421 | Order ID: 29  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:05,461 | Order ID: 29  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:05,524 | Executing order ID: 30 ACTION SELL.
+2022-06-15 15:15:05,692 | Order ID: 30  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:05,723 | Order ID: 30  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:05,765 | Executing order ID: 31 ACTION SELL.
+2022-06-15 15:15:05,907 | Order ID: 31  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:05,943 | Order ID: 31  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:05,978 | Executing order ID: 32 ACTION BUY.
+2022-06-15 15:15:06,118 | Order ID: 32  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:06,154 | Order ID: 32  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:06,206 | Executing order ID: 33 ACTION SELL.
+2022-06-15 15:15:06,343 | Order ID: 33  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:06,380 | Order ID: 33  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:06,416 | Executing order ID: 34 ACTION SELL.
+2022-06-15 15:15:06,555 | Order ID: 34  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:06,591 | Order ID: 34  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:06,630 | Executing order ID: 35 ACTION BUY.
+2022-06-15 15:15:06,768 | Order ID: 35  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:06,801 | Order ID: 35  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:06,848 | Executing order ID: 36 ACTION BUY.
+2022-06-15 15:15:06,984 | Order ID: 36  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:07,020 | Order ID: 36  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:07,060 | Executing order ID: 37 ACTION SELL.
+2022-06-15 15:15:07,203 | Order ID: 37  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:07,243 | Order ID: 37  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:07,285 | Executing order ID: 38 ACTION SELL.
+2022-06-15 15:15:07,419 | Order ID: 38  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:07,450 | Order ID: 38  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:07,495 | Executing order ID: 39 ACTION SELL.
+2022-06-15 15:15:07,636 | Order ID: 39  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:07,677 | Order ID: 39  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:07,718 | Executing order ID: 40 ACTION SELL.
+2022-06-15 15:15:07,848 | Order ID: 40  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:07,879 | Order ID: 40  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:07,925 | Executing order ID: 41 ACTION SELL.
+2022-06-15 15:15:08,062 | Order ID: 41  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:08,098 | Order ID: 41  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:08,138 | Executing order ID: 42 ACTION SELL.
+2022-06-15 15:15:08,276 | Order ID: 42  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:08,318 | Order ID: 42  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:08,360 | Executing order ID: 43 ACTION SELL.
+2022-06-15 15:15:08,491 | Order ID: 43  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:08,528 | Order ID: 43  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:08,585 | Executing order ID: 44 ACTION BUY.
+2022-06-15 15:15:08,745 | Order ID: 44  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:08,780 | Order ID: 44  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:08,836 | Executing order ID: 45 ACTION SELL.
+2022-06-15 15:15:08,970 | Order ID: 45  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:09,000 | Order ID: 45  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:09,050 | Executing order ID: 46 ACTION SELL.
+2022-06-15 15:15:09,193 | Order ID: 46  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:09,226 | Order ID: 46  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:09,270 | Executing order ID: 47 ACTION BUY.
+2022-06-15 15:15:09,410 | Order ID: 47  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:09,443 | Order ID: 47  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:09,480 | Executing order ID: 48 ACTION BUY.
+2022-06-15 15:15:09,616 | Order ID: 48  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:09,646 | Order ID: 48  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:09,688 | Executing order ID: 49 ACTION HOLD.
+2022-06-15 15:15:09,735 | Executing order ID: 50 ACTION SELL.
+2022-06-15 15:15:09,871 | Order ID: 50  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:09,904 | Order ID: 50  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:09,949 | Executing order ID: 51 ACTION SELL.
+2022-06-15 15:15:10,087 | Order ID: 51  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:10,126 | Order ID: 51  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:10,171 | Executing order ID: 52 ACTION SELL.
+2022-06-15 15:15:10,307 | Order ID: 52  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:10,336 | Order ID: 52  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:10,381 | Executing order ID: 53 ACTION SELL.
+2022-06-15 15:15:10,524 | Order ID: 53  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:10,557 | Order ID: 53  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:10,602 | Executing order ID: 54 ACTION HOLD.
+2022-06-15 15:15:10,643 | Executing order ID: 55 ACTION HOLD.
+2022-06-15 15:15:10,686 | Executing order ID: 56 ACTION HOLD.
+2022-06-15 15:15:10,730 | Executing order ID: 57 ACTION HOLD.
+2022-06-15 15:15:10,767 | Executing order ID: 58 ACTION HOLD.
+2022-06-15 15:15:10,811 | Executing order ID: 59 ACTION HOLD.
+2022-06-15 15:15:10,856 | Executing order ID: 60 ACTION HOLD.
+2022-06-15 15:15:10,897 | Executing order ID: 61 ACTION HOLD.
+2022-06-15 15:15:10,933 | Executing order ID: 62 ACTION HOLD.
+2022-06-15 15:15:10,977 | Executing order ID: 63 ACTION HOLD.
+2022-06-15 15:15:11,021 | Executing order ID: 64 ACTION HOLD.
+2022-06-15 15:15:11,063 | Executing order ID: 65 ACTION HOLD.
+2022-06-15 15:15:11,103 | Executing order ID: 66 ACTION HOLD.
+2022-06-15 15:15:11,138 | Executing order ID: 67 ACTION HOLD.
+2022-06-15 15:15:11,186 | Executing order ID: 68 ACTION SELL.
+2022-06-15 15:15:11,321 | Order ID: 68  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:11,353 | Order ID: 68  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:11,398 | Executing order ID: 69 ACTION SELL.
+2022-06-15 15:15:11,531 | Order ID: 69  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:11,573 | Order ID: 69  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:11,613 | Executing order ID: 70 ACTION SELL.
+2022-06-15 15:15:11,752 | Order ID: 70  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:11,780 | Order ID: 70  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:11,821 | Executing order ID: 71 ACTION SELL.
+2022-06-15 15:15:11,964 | Order ID: 71  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:11,995 | Order ID: 71  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:12,041 | Executing order ID: 72 ACTION HOLD.
+2022-06-15 15:15:12,086 | Executing order ID: 73 ACTION HOLD.
+2022-06-15 15:15:12,128 | Executing order ID: 74 ACTION HOLD.
+2022-06-15 15:15:12,169 | Executing order ID: 75 ACTION HOLD.
+2022-06-15 15:15:12,212 | Executing order ID: 76 ACTION HOLD.
+2022-06-15 15:15:12,249 | Executing order ID: 77 ACTION SELL.
+2022-06-15 15:15:12,390 | Order ID: 77  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:12,421 | Order ID: 77  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:12,466 | Executing order ID: 78 ACTION SELL.
+2022-06-15 15:15:12,603 | Order ID: 78  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:12,636 | Order ID: 78  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:12,689 | Executing order ID: 79 ACTION SELL.
+2022-06-15 15:15:12,827 | Order ID: 79  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:12,865 | Order ID: 79  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:12,905 | Executing order ID: 80 ACTION HOLD.
+2022-06-15 15:15:12,942 | Executing order ID: 81 ACTION HOLD.
+2022-06-15 15:15:12,986 | Executing order ID: 82 ACTION HOLD.
+2022-06-15 15:15:13,034 | Executing order ID: 83 ACTION SELL.
+2022-06-15 15:15:13,166 | Order ID: 83  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:13,206 | Order ID: 83  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:13,250 | Executing order ID: 84 ACTION SELL.
+2022-06-15 15:15:13,457 | Order ID: 84 executed
+2022-06-15 15:15:13,458 | Entered into SHORT position.
+2022-06-15 15:15:13,464 |                                                             CUMULATIVE REWARD: 0.
+2022-06-15 15:15:13,701 |                                                             CUMULATIVE REWARD: 0.
+2022-06-15 15:15:13,701 | Executing order ID: 85 ACTION SELL.
+2022-06-15 15:15:13,739 |                                                             CUMULATIVE REWARD: 0.
+2022-06-15 15:15:13,739 | Executing order ID: 86 ACTION SELL.
+2022-06-15 15:15:13,862 |                                                             CUMULATIVE REWARD: 0.
+2022-06-15 15:15:13,862 | Executing order ID: 87 ACTION SELL.
+2022-06-15 15:15:13,895 |                                                             CUMULATIVE REWARD: 0.
+2022-06-15 15:15:13,895 | Executing order ID: 88 ACTION SELL.
+2022-06-15 15:15:13,942 |                                                             CUMULATIVE REWARD: 0.
+2022-06-15 15:15:13,942 | Executing order ID: 89 ACTION SELL.
+2022-06-15 15:15:13,984 |                                                             CUMULATIVE REWARD: 0.
+2022-06-15 15:15:13,984 | Executing order ID: 90 ACTION SELL.
+2022-06-15 15:15:14,068 |                                                             CUMULATIVE REWARD: 0.
+2022-06-15 15:15:14,068 | Executing order ID: 91 ACTION SELL.
+2022-06-15 15:15:14,185 |                                                             CUMULATIVE REWARD: 0.
+2022-06-15 15:15:14,185 | Executing order ID: 92 ACTION SELL.
+2022-06-15 15:15:14,301 |                                                             CUMULATIVE REWARD: 0.
+2022-06-15 15:15:14,301 | Executing order ID: 93 ACTION SELL.
+2022-06-15 15:15:14,398 |                                                             CUMULATIVE REWARD: 0.
+2022-06-15 15:15:14,398 | Executing order ID: 94 ACTION SELL.
+2022-06-15 15:15:14,431 |                                                             CUMULATIVE REWARD: 0.
+2022-06-15 15:15:14,431 | Executing order ID: 95 ACTION SELL.
+2022-06-15 15:15:14,472 |                                                             CUMULATIVE REWARD: 0.
+2022-06-15 15:15:14,472 | Executing order ID: 96 ACTION SELL.
+2022-06-15 15:15:14,517 | Executing order ID: 97 ACTION BUY.
+2022-06-15 15:15:14,721 | Order ID: 97 executed
+2022-06-15 15:15:14,721 | Entered into FLAT position.
+2022-06-15 15:15:14,722 |                                                             CUMULATIVE REWARD: -0.0009016270102143453.
+2022-06-15 15:15:14,724 | Executing order ID: 98 ACTION BUY.
+2022-06-15 15:15:14,876 | Order ID: 98  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:14,906 | Order ID: 98  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:15,005 | Executing order ID: 99 ACTION SELL.
+2022-06-15 15:15:15,213 | Order ID: 99 executed
+2022-06-15 15:15:15,214 | Entered into SHORT position.
+2022-06-15 15:15:15,214 |                                                             CUMULATIVE REWARD: -0.0009016270102143453.
+2022-06-15 15:15:15,277 | Executing order ID: 100 ACTION BUY.
+2022-06-15 15:15:15,480 | Order ID: 100 executed
+2022-06-15 15:15:15,480 | Entered into FLAT position.
+2022-06-15 15:15:15,481 |                                                             CUMULATIVE REWARD: -0.0018924217793354625.
+2022-06-15 15:15:15,491 | Executing order ID: 101 ACTION BUY.
+2022-06-15 15:15:15,691 | Order ID: 101 executed
+2022-06-15 15:15:15,691 | Entered into LONG position.
+2022-06-15 15:15:15,691 |                                                             CUMULATIVE REWARD: -0.0018924217793354625.
+2022-06-15 15:15:15,742 |                                                             CUMULATIVE REWARD: -0.0018924217793354625.
+2022-06-15 15:15:15,742 | Executing order ID: 102 ACTION BUY.
+2022-06-15 15:15:15,782 |                                                             CUMULATIVE REWARD: -0.0018924217793354625.
+2022-06-15 15:15:15,782 | Executing order ID: 103 ACTION BUY.
+2022-06-15 15:15:15,824 |                                                             CUMULATIVE REWARD: -0.0018924217793354625.
+2022-06-15 15:15:15,824 | Executing order ID: 104 ACTION BUY.
+2022-06-15 15:15:15,864 |                                                             CUMULATIVE REWARD: -0.0018924217793354625.
+2022-06-15 15:15:15,864 | Executing order ID: 105 ACTION BUY.
+2022-06-15 15:15:15,907 |                                                             CUMULATIVE REWARD: -0.0018924217793354625.
+2022-06-15 15:15:15,907 | Executing order ID: 106 ACTION BUY.
+2022-06-15 15:15:15,948 |                                                             CUMULATIVE REWARD: -0.0018924217793354625.
+2022-06-15 15:15:15,948 | Executing order ID: 107 ACTION BUY.
+2022-06-15 15:15:15,990 |                                                             CUMULATIVE REWARD: -0.0018924217793354625.
+2022-06-15 15:15:15,990 | Executing order ID: 108 ACTION BUY.
+2022-06-15 15:15:16,028 |                                                             CUMULATIVE REWARD: -0.0018924217793354625.
+2022-06-15 15:15:16,029 | Executing order ID: 109 ACTION BUY.
+2022-06-15 15:15:16,070 |                                                             CUMULATIVE REWARD: -0.0018924217793354625.
+2022-06-15 15:15:16,070 | Executing order ID: 110 ACTION BUY.
+2022-06-15 15:15:16,112 | Executing order ID: 111 ACTION SELL.
+2022-06-15 15:15:16,319 | Order ID: 111 executed
+2022-06-15 15:15:16,319 | Entered into FLAT position.
+2022-06-15 15:15:16,319 |                                                             CUMULATIVE REWARD: -0.0025063689589762683.
+2022-06-15 15:15:16,458 | Executing order ID: 112 ACTION SELL.
+2022-06-15 15:15:16,610 | Order ID: 112  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:16,644 | Order ID: 112  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:16,691 | Executing order ID: 113 ACTION SELL.
+2022-06-15 15:15:16,828 | Order ID: 113  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:16,857 | Order ID: 113  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:16,900 | Executing order ID: 114 ACTION BUY.
+2022-06-15 15:15:17,039 | Order ID: 114  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:17,069 | Order ID: 114  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:17,116 | Executing order ID: 115 ACTION BUY.
+2022-06-15 15:15:17,317 | Order ID: 115  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:17,352 | Executing order ID: 116 ACTION BUY.
+2022-06-15 15:15:17,486 | Order ID: 116  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:17,516 | Order ID: 116  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:17,559 | Executing order ID: 117 ACTION SELL.
+2022-06-15 15:15:17,689 | Order ID: 117  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:17,726 | Order ID: 117  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:17,775 | Executing order ID: 118 ACTION SELL.
+2022-06-15 15:15:17,905 | Order ID: 118  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:17,937 | Order ID: 118  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:17,982 | Executing order ID: 119 ACTION SELL.
+2022-06-15 15:15:18,116 | Order ID: 119  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:18,193 | Executing order ID: 120 ACTION BUY.
+2022-06-15 15:15:18,395 | Order ID: 120  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:18,439 | Executing order ID: 121 ACTION BUY.
+2022-06-15 15:15:18,574 | Order ID: 121  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:18,605 | Order ID: 121  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:18,649 | Executing order ID: 122 ACTION BUY.
+2022-06-15 15:15:18,787 | Order ID: 122  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:18,821 | Order ID: 122  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:18,856 | Executing order ID: 123 ACTION BUY.
+2022-06-15 15:15:19,006 | Order ID: 123  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:19,050 | Order ID: 123  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:19,089 | Executing order ID: 124 ACTION BUY.
+2022-06-15 15:15:19,221 | Order ID: 124  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:19,263 | Order ID: 124  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:19,300 | Executing order ID: 125 ACTION BUY.
+2022-06-15 15:15:19,431 | Order ID: 125  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:19,465 | Order ID: 125  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:19,500 | Order ID: 125  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:19,536 | Executing order ID: 126 ACTION BUY.
+2022-06-15 15:15:19,678 | Order ID: 126  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:19,714 | Order ID: 126  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:19,760 | Executing order ID: 127 ACTION SELL.
+2022-06-15 15:15:19,894 | Order ID: 127  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:19,929 | Order ID: 127  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:19,972 | Executing order ID: 128 ACTION SELL.
+2022-06-15 15:15:20,138 | Order ID: 128  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:20,169 | Order ID: 128  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:20,216 | Executing order ID: 129 ACTION SELL.
+2022-06-15 15:15:20,355 | Order ID: 129  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:20,415 | Order ID: 129  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:20,457 | Executing order ID: 130 ACTION SELL.
+2022-06-15 15:15:20,596 | Order ID: 130  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:20,626 | Order ID: 130  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:20,669 | Executing order ID: 131 ACTION SELL.
+2022-06-15 15:15:20,813 | Order ID: 131  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:20,844 | Order ID: 131  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:20,884 | Executing order ID: 132 ACTION SELL.
+2022-06-15 15:15:21,019 | Order ID: 132  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:21,059 | Order ID: 132  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:21,093 | Executing order ID: 133 ACTION SELL.
+2022-06-15 15:15:21,233 | Order ID: 133  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:21,265 | Order ID: 133  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:21,307 | Executing order ID: 134 ACTION SELL.
+2022-06-15 15:15:21,491 | Order ID: 134  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:21,530 | Executing order ID: 135 ACTION SELL.
+2022-06-15 15:15:21,668 | Order ID: 135  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:21,702 | Order ID: 135  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:21,746 | Executing order ID: 136 ACTION SELL.
+2022-06-15 15:15:21,890 | Order ID: 136  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:21,926 | Order ID: 136  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:21,962 | Executing order ID: 137 ACTION SELL.
+2022-06-15 15:15:22,098 | Order ID: 137  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:22,137 | Order ID: 137  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:22,174 | Executing order ID: 138 ACTION SELL.
+2022-06-15 15:15:22,318 | Order ID: 138  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:22,349 | Order ID: 138  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:22,396 | Executing order ID: 139 ACTION BUY.
+2022-06-15 15:15:22,532 | Order ID: 139  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:22,562 | Order ID: 139  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:22,604 | Executing order ID: 140 ACTION BUY.
+2022-06-15 15:15:22,743 | Order ID: 140  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:22,775 | Order ID: 140  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:22,816 | Executing order ID: 141 ACTION BUY.
+2022-06-15 15:15:22,978 | Order ID: 141  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:23,010 | Order ID: 141  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:23,082 | Executing order ID: 142 ACTION SELL.
+2022-06-15 15:15:23,282 | Order ID: 142 executed
+2022-06-15 15:15:23,282 | Entered into SHORT position.
+2022-06-15 15:15:23,283 |                                                             CUMULATIVE REWARD: -0.0025063689589762683.
+2022-06-15 15:15:23,287 |                                                             CUMULATIVE REWARD: -0.0025063689589762683.
+2022-06-15 15:15:23,287 | Executing order ID: 143 ACTION SELL.
+2022-06-15 15:15:23,328 |                                                             CUMULATIVE REWARD: -0.0025063689589762683.
+2022-06-15 15:15:23,328 | Executing order ID: 144 ACTION SELL.
+2022-06-15 15:15:23,424 | Executing order ID: 145 ACTION BUY.
+2022-06-15 15:15:23,629 | Order ID: 145 executed
+2022-06-15 15:15:23,629 | Entered into FLAT position.
+2022-06-15 15:15:23,629 |                                                             CUMULATIVE REWARD: -0.002902354942215246.
+2022-06-15 15:15:23,651 | Executing order ID: 146 ACTION BUY.
+2022-06-15 15:15:23,797 | Order ID: 146  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:23,830 | Order ID: 146  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:23,874 | Executing order ID: 147 ACTION BUY.
+2022-06-15 15:15:24,007 | Order ID: 147  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:24,037 | Order ID: 147  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:24,077 | Order ID: 147  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:24,121 | Executing order ID: 148 ACTION SELL.
+2022-06-15 15:15:24,267 | Order ID: 148  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:24,300 | Order ID: 148  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:24,342 | Executing order ID: 149 ACTION SELL.
+2022-06-15 15:15:24,482 | Order ID: 149  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:24,523 | Order ID: 149  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:24,566 | Executing order ID: 150 ACTION SELL.
+2022-06-15 15:15:24,700 | Order ID: 150  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:24,737 | Order ID: 150  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:24,783 | Executing order ID: 151 ACTION BUY.
+2022-06-15 15:15:24,919 | Order ID: 151  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:24,949 | Order ID: 151  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:24,995 | Executing order ID: 152 ACTION BUY.
+2022-06-15 15:15:25,128 | Order ID: 152  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:25,163 | Order ID: 152  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:25,207 | Executing order ID: 153 ACTION SELL.
+2022-06-15 15:15:25,344 | Order ID: 153  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:25,376 | Order ID: 153  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:25,418 | Executing order ID: 154 ACTION SELL.
+2022-06-15 15:15:25,556 | Order ID: 154  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:25,621 | Executing order ID: 155 ACTION BUY.
+2022-06-15 15:15:25,779 | Order ID: 155  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:25,809 | Order ID: 155  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:25,852 | Executing order ID: 156 ACTION BUY.
+2022-06-15 15:15:26,000 | Order ID: 156  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:26,034 | Order ID: 156  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:26,074 | Executing order ID: 157 ACTION BUY.
+2022-06-15 15:15:26,207 | Order ID: 157  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:26,253 | Order ID: 157  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:26,296 | Executing order ID: 158 ACTION BUY.
+2022-06-15 15:15:26,433 | Order ID: 158  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:26,470 | Order ID: 158  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:26,522 | Executing order ID: 159 ACTION BUY.
+2022-06-15 15:15:26,728 | Order ID: 159 executed
+2022-06-15 15:15:26,740 | Entered into LONG position.
+2022-06-15 15:15:26,747 |                                                             CUMULATIVE REWARD: -0.002902354942215246.
+2022-06-15 15:15:26,806 | Executing order ID: 160 ACTION SELL.
+2022-06-15 15:15:26,990 | Order ID: 160  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:27,025 | Executing order ID: 161 ACTION SELL.
+2022-06-15 15:15:27,161 | Order ID: 161  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:27,192 | Order ID: 161  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:27,244 | Executing order ID: 162 ACTION SELL.
+2022-06-15 15:15:27,382 | Order ID: 162  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:27,417 | Order ID: 162  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:27,450 | Executing order ID: 163 ACTION SELL.
+2022-06-15 15:15:27,591 | Order ID: 163  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:27,630 | Order ID: 163  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:27,671 | Executing order ID: 164 ACTION SELL.
+2022-06-15 15:15:27,811 | Order ID: 164  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:27,846 | Order ID: 164  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:27,882 | Executing order ID: 165 ACTION SELL.
+2022-06-15 15:15:28,023 | Order ID: 165  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:28,059 | Order ID: 165  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:28,095 | Executing order ID: 166 ACTION SELL.
+2022-06-15 15:15:28,230 | Order ID: 166  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:28,268 | Order ID: 166  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:28,313 | Executing order ID: 167 ACTION SELL.
+2022-06-15 15:15:28,451 | Order ID: 167  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:28,487 | Order ID: 167  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:28,532 |                                                             CUMULATIVE REWARD: -0.002902354942215246.
+2022-06-15 15:15:28,532 | Executing order ID: 168 ACTION BUY.
+2022-06-15 15:15:28,579 |                                                             CUMULATIVE REWARD: -0.002902354942215246.
+2022-06-15 15:15:28,579 | Executing order ID: 169 ACTION BUY.
+2022-06-15 15:15:28,625 | Executing order ID: 170 ACTION SELL.
+2022-06-15 15:15:28,771 | Order ID: 170  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:28,805 | Order ID: 170  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:28,849 |                                                             CUMULATIVE REWARD: -0.002902354942215246.
+2022-06-15 15:15:28,849 | Executing order ID: 171 ACTION BUY.
+2022-06-15 15:15:28,890 |                                                             CUMULATIVE REWARD: -0.002902354942215246.
+2022-06-15 15:15:28,891 | Executing order ID: 172 ACTION BUY.
+2022-06-15 15:15:28,924 |                                                             CUMULATIVE REWARD: -0.002902354942215246.
+2022-06-15 15:15:28,924 | Executing order ID: 173 ACTION BUY.
+2022-06-15 15:15:28,969 | Executing order ID: 174 ACTION SELL.
+2022-06-15 15:15:29,107 | Order ID: 174  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:29,142 | Order ID: 174  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:29,176 | Executing order ID: 175 ACTION SELL.
+2022-06-15 15:15:29,387 | Order ID: 175 executed
+2022-06-15 15:15:29,393 | Entered into FLAT position.
+2022-06-15 15:15:29,400 |                                                             CUMULATIVE REWARD: -0.004972937929453858.
+2022-06-15 15:15:29,437 | Executing order ID: 176 ACTION SELL.
+2022-06-15 15:15:29,600 | Order ID: 176  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:29,631 | Order ID: 176  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:29,677 | Executing order ID: 177 ACTION SELL.
+2022-06-15 15:15:29,819 | Order ID: 177  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:29,854 | Order ID: 177  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:29,900 | Executing order ID: 178 ACTION BUY.
+2022-06-15 15:15:30,038 | Order ID: 178  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:30,069 | Order ID: 178  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:30,113 | Executing order ID: 179 ACTION SELL.
+2022-06-15 15:15:30,248 | Order ID: 179  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:30,283 | Order ID: 179  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:30,324 | Executing order ID: 180 ACTION SELL.
+2022-06-15 15:15:30,463 | Order ID: 180  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:30,499 | Order ID: 180  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:30,535 | Executing order ID: 181 ACTION SELL.
+2022-06-15 15:15:30,738 | Order ID: 181 executed
+2022-06-15 15:15:30,738 | Entered into SHORT position.
+2022-06-15 15:15:30,740 |                                                             CUMULATIVE REWARD: -0.004972937929453858.
+2022-06-15 15:15:30,755 |                                                             CUMULATIVE REWARD: -0.004972937929453858.
+2022-06-15 15:15:30,755 | Executing order ID: 182 ACTION SELL.
+2022-06-15 15:15:30,835 |                                                             CUMULATIVE REWARD: -0.004972937929453858.
+2022-06-15 15:15:30,835 | Executing order ID: 183 ACTION SELL.
+2022-06-15 15:15:30,868 |                                                             CUMULATIVE REWARD: -0.004972937929453858.
+2022-06-15 15:15:30,868 | Executing order ID: 184 ACTION SELL.
+2022-06-15 15:15:30,916 |                                                             CUMULATIVE REWARD: -0.004972937929453858.
+2022-06-15 15:15:30,916 | Executing order ID: 185 ACTION SELL.
+2022-06-15 15:15:30,962 |                                                             CUMULATIVE REWARD: -0.004972937929453858.
+2022-06-15 15:15:30,962 | Executing order ID: 186 ACTION SELL.
+2022-06-15 15:15:31,049 |                                                             CUMULATIVE REWARD: -0.004972937929453858.
+2022-06-15 15:15:31,049 | Executing order ID: 187 ACTION SELL.
+2022-06-15 15:15:31,128 |                                                             CUMULATIVE REWARD: -0.004972937929453858.
+2022-06-15 15:15:31,128 | Executing order ID: 188 ACTION SELL.
+2022-06-15 15:15:31,161 |                                                             CUMULATIVE REWARD: -0.004972937929453858.
+2022-06-15 15:15:31,161 | Executing order ID: 189 ACTION SELL.
+2022-06-15 15:15:31,205 |                                                             CUMULATIVE REWARD: -0.004972937929453858.
+2022-06-15 15:15:31,205 | Executing order ID: 190 ACTION SELL.
+2022-06-15 15:15:31,252 |                                                             CUMULATIVE REWARD: -0.004972937929453858.
+2022-06-15 15:15:31,252 | Executing order ID: 191 ACTION SELL.
+2022-06-15 15:15:31,294 |                                                             CUMULATIVE REWARD: -0.004972937929453858.
+2022-06-15 15:15:31,294 | Executing order ID: 192 ACTION SELL.
+2022-06-15 15:15:31,341 | Executing order ID: 193 ACTION BUY.
+2022-06-15 15:15:31,528 | Order ID: 193  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:31,604 | Executing order ID: 194 ACTION BUY.
+2022-06-15 15:15:31,807 | Order ID: 194 executed
+2022-06-15 15:15:31,807 | Entered into FLAT position.
+2022-06-15 15:15:31,807 |                                                             CUMULATIVE REWARD: -0.005001022838325708.
+2022-06-15 15:15:31,816 | Executing order ID: 195 ACTION SELL.
+2022-06-15 15:15:31,979 | Order ID: 195  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:32,009 | Order ID: 195  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:32,054 | Executing order ID: 196 ACTION BUY.
+2022-06-15 15:15:32,256 | Order ID: 196 executed
+2022-06-15 15:15:32,256 | Entered into LONG position.
+2022-06-15 15:15:32,256 |                                                             CUMULATIVE REWARD: -0.005001022838325708.
+2022-06-15 15:15:32,283 |                                                             CUMULATIVE REWARD: -0.005001022838325708.
+2022-06-15 15:15:32,283 | Executing order ID: 197 ACTION BUY.
+2022-06-15 15:15:32,463 |                                                             CUMULATIVE REWARD: -0.005001022838325708.
+2022-06-15 15:15:32,463 | Executing order ID: 198 ACTION BUY.
+2022-06-15 15:15:32,613 | Executing order ID: 199 ACTION SELL.
+2022-06-15 15:15:32,817 | Order ID: 199 executed
+2022-06-15 15:15:32,817 | Entered into FLAT position.
+2022-06-15 15:15:32,818 |                                                             CUMULATIVE REWARD: -0.005120883485846606.
+2022-06-15 15:15:32,839 | Executing order ID: 200 ACTION SELL.
+2022-06-15 15:15:32,997 | Order ID: 200  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:33,033 | Order ID: 200  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:33,078 | Executing order ID: 201 ACTION BUY.
+2022-06-15 15:15:33,212 | Order ID: 201  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:33,248 | Order ID: 201  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:33,287 | Executing order ID: 202 ACTION SELL.
+2022-06-15 15:15:33,491 | Order ID: 202 executed
+2022-06-15 15:15:33,491 | Entered into SHORT position.
+2022-06-15 15:15:33,491 |                                                             CUMULATIVE REWARD: -0.005120883485846606.
+2022-06-15 15:15:33,506 |                                                             CUMULATIVE REWARD: -0.005120883485846606.
+2022-06-15 15:15:33,506 | Executing order ID: 203 ACTION SELL.
+2022-06-15 15:15:33,551 |                                                             CUMULATIVE REWARD: -0.005120883485846606.
+2022-06-15 15:15:33,551 | Executing order ID: 204 ACTION SELL.
+2022-06-15 15:15:33,599 |                                                             CUMULATIVE REWARD: -0.005120883485846606.
+2022-06-15 15:15:33,599 | Executing order ID: 205 ACTION SELL.
+2022-06-15 15:15:33,643 |                                                             CUMULATIVE REWARD: -0.005120883485846606.
+2022-06-15 15:15:33,643 | Executing order ID: 206 ACTION SELL.
+2022-06-15 15:15:33,687 |                                                             CUMULATIVE REWARD: -0.005120883485846606.
+2022-06-15 15:15:33,687 | Executing order ID: 207 ACTION SELL.
+2022-06-15 15:15:33,730 |                                                             CUMULATIVE REWARD: -0.005120883485846606.
+2022-06-15 15:15:33,730 | Executing order ID: 208 ACTION SELL.
+2022-06-15 15:15:33,774 |                                                             CUMULATIVE REWARD: -0.005120883485846606.
+2022-06-15 15:15:33,774 | Executing order ID: 209 ACTION SELL.
+2022-06-15 15:15:33,821 |                                                             CUMULATIVE REWARD: -0.005120883485846606.
+2022-06-15 15:15:33,821 | Executing order ID: 210 ACTION SELL.
+2022-06-15 15:15:33,862 |                                                             CUMULATIVE REWARD: -0.005120883485846606.
+2022-06-15 15:15:33,862 | Executing order ID: 211 ACTION SELL.
+2022-06-15 15:15:33,912 |                                                             CUMULATIVE REWARD: -0.005120883485846606.
+2022-06-15 15:15:33,912 | Executing order ID: 212 ACTION SELL.
+2022-06-15 15:15:33,954 |                                                             CUMULATIVE REWARD: -0.005120883485846606.
+2022-06-15 15:15:33,954 | Executing order ID: 213 ACTION SELL.
+2022-06-15 15:15:33,996 |                                                             CUMULATIVE REWARD: -0.005120883485846606.
+2022-06-15 15:15:33,996 | Executing order ID: 214 ACTION SELL.
+2022-06-15 15:15:34,033 |                                                             CUMULATIVE REWARD: -0.005120883485846606.
+2022-06-15 15:15:34,033 | Executing order ID: 215 ACTION SELL.
+2022-06-15 15:15:34,078 |                                                             CUMULATIVE REWARD: -0.005120883485846606.
+2022-06-15 15:15:34,078 | Executing order ID: 216 ACTION SELL.
+2022-06-15 15:15:34,123 |                                                             CUMULATIVE REWARD: -0.005120883485846606.
+2022-06-15 15:15:34,123 | Executing order ID: 217 ACTION SELL.
+2022-06-15 15:15:34,163 |                                                             CUMULATIVE REWARD: -0.005120883485846606.
+2022-06-15 15:15:34,163 | Executing order ID: 218 ACTION SELL.
+2022-06-15 15:15:34,211 |                                                             CUMULATIVE REWARD: -0.005120883485846606.
+2022-06-15 15:15:34,211 | Executing order ID: 219 ACTION SELL.
+2022-06-15 15:15:34,247 |                                                             CUMULATIVE REWARD: -0.005120883485846606.
+2022-06-15 15:15:34,247 | Executing order ID: 220 ACTION SELL.
+2022-06-15 15:15:34,296 |                                                             CUMULATIVE REWARD: -0.005120883485846606.
+2022-06-15 15:15:34,296 | Executing order ID: 221 ACTION SELL.
+2022-06-15 15:15:34,344 |                                                             CUMULATIVE REWARD: -0.005120883485846606.
+2022-06-15 15:15:34,344 | Executing order ID: 222 ACTION SELL.
+2022-06-15 15:15:34,388 |                                                             CUMULATIVE REWARD: -0.005120883485846606.
+2022-06-15 15:15:34,388 | Executing order ID: 223 ACTION SELL.
+2022-06-15 15:15:34,425 |                                                             CUMULATIVE REWARD: -0.005120883485846606.
+2022-06-15 15:15:34,425 | Executing order ID: 224 ACTION SELL.
+2022-06-15 15:15:34,472 |                                                             CUMULATIVE REWARD: -0.005120883485846606.
+2022-06-15 15:15:34,472 | Executing order ID: 225 ACTION SELL.
+2022-06-15 15:15:34,556 |                                                             CUMULATIVE REWARD: -0.005120883485846606.
+2022-06-15 15:15:34,556 | Executing order ID: 226 ACTION SELL.
+2022-06-15 15:15:34,697 |                                                             CUMULATIVE REWARD: -0.005120883485846606.
+2022-06-15 15:15:34,697 | Executing order ID: 227 ACTION SELL.
+2022-06-15 15:15:34,779 |                                                             CUMULATIVE REWARD: -0.005120883485846606.
+2022-06-15 15:15:34,779 | Executing order ID: 228 ACTION SELL.
+2022-06-15 15:15:34,817 |                                                             CUMULATIVE REWARD: -0.005120883485846606.
+2022-06-15 15:15:34,818 | Executing order ID: 229 ACTION SELL.
+2022-06-15 15:15:34,863 |                                                             CUMULATIVE REWARD: -0.005120883485846606.
+2022-06-15 15:15:34,864 | Executing order ID: 230 ACTION SELL.
+2022-06-15 15:15:34,908 |                                                             CUMULATIVE REWARD: -0.005120883485846606.
+2022-06-15 15:15:34,908 | Executing order ID: 231 ACTION SELL.
+2022-06-15 15:15:34,957 | Executing order ID: 232 ACTION BUY.
+2022-06-15 15:15:35,092 | Order ID: 232  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:35,128 | Order ID: 232  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:35,169 | Executing order ID: 233 ACTION BUY.
+2022-06-15 15:15:35,373 | Order ID: 233 executed
+2022-06-15 15:15:35,374 | Entered into FLAT position.
+2022-06-15 15:15:35,374 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:35,399 | Executing order ID: 234 ACTION BUY.
+2022-06-15 15:15:35,608 | Order ID: 234 executed
+2022-06-15 15:15:35,613 | Entered into LONG position.
+2022-06-15 15:15:35,620 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:35,674 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:35,674 | Executing order ID: 235 ACTION BUY.
+2022-06-15 15:15:35,770 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:35,770 | Executing order ID: 236 ACTION BUY.
+2022-06-15 15:15:35,829 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:35,829 | Executing order ID: 237 ACTION BUY.
+2022-06-15 15:15:35,866 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:35,866 | Executing order ID: 238 ACTION BUY.
+2022-06-15 15:15:35,938 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:35,938 | Executing order ID: 239 ACTION BUY.
+2022-06-15 15:15:36,004 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:36,005 | Executing order ID: 240 ACTION BUY.
+2022-06-15 15:15:36,119 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:36,119 | Executing order ID: 241 ACTION BUY.
+2022-06-15 15:15:36,222 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:36,222 | Executing order ID: 242 ACTION BUY.
+2022-06-15 15:15:36,303 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:36,303 | Executing order ID: 243 ACTION BUY.
+2022-06-15 15:15:36,380 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:36,380 | Executing order ID: 244 ACTION BUY.
+2022-06-15 15:15:36,419 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:36,419 | Executing order ID: 245 ACTION BUY.
+2022-06-15 15:15:36,458 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:36,458 | Executing order ID: 246 ACTION BUY.
+2022-06-15 15:15:36,527 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:36,527 | Executing order ID: 247 ACTION BUY.
+2022-06-15 15:15:36,562 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:36,562 | Executing order ID: 248 ACTION BUY.
+2022-06-15 15:15:36,609 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:36,609 | Executing order ID: 249 ACTION BUY.
+2022-06-15 15:15:36,646 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:36,646 | Executing order ID: 250 ACTION BUY.
+2022-06-15 15:15:36,694 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:36,694 | Executing order ID: 251 ACTION BUY.
+2022-06-15 15:15:36,738 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:36,739 | Executing order ID: 252 ACTION BUY.
+2022-06-15 15:15:36,837 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:36,837 | Executing order ID: 253 ACTION BUY.
+2022-06-15 15:15:36,872 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:36,872 | Executing order ID: 254 ACTION BUY.
+2022-06-15 15:15:36,919 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:36,920 | Executing order ID: 255 ACTION BUY.
+2022-06-15 15:15:36,957 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:36,957 | Executing order ID: 256 ACTION BUY.
+2022-06-15 15:15:37,005 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:37,005 | Executing order ID: 257 ACTION BUY.
+2022-06-15 15:15:37,042 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:37,042 | Executing order ID: 258 ACTION BUY.
+2022-06-15 15:15:37,089 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:37,089 | Executing order ID: 259 ACTION BUY.
+2022-06-15 15:15:37,132 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:37,133 | Executing order ID: 260 ACTION BUY.
+2022-06-15 15:15:37,176 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:37,176 | Executing order ID: 261 ACTION BUY.
+2022-06-15 15:15:37,227 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:37,227 | Executing order ID: 262 ACTION BUY.
+2022-06-15 15:15:37,266 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:37,267 | Executing order ID: 263 ACTION BUY.
+2022-06-15 15:15:37,315 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:37,315 | Executing order ID: 264 ACTION BUY.
+2022-06-15 15:15:37,357 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:37,358 | Executing order ID: 265 ACTION BUY.
+2022-06-15 15:15:37,403 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:37,403 | Executing order ID: 266 ACTION BUY.
+2022-06-15 15:15:37,444 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:37,445 | Executing order ID: 267 ACTION BUY.
+2022-06-15 15:15:37,486 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:37,486 | Executing order ID: 268 ACTION BUY.
+2022-06-15 15:15:37,533 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:37,533 | Executing order ID: 269 ACTION BUY.
+2022-06-15 15:15:37,578 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:37,578 | Executing order ID: 270 ACTION BUY.
+2022-06-15 15:15:37,615 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:37,615 | Executing order ID: 271 ACTION BUY.
+2022-06-15 15:15:37,735 | Executing order ID: 272 ACTION SELL.
+2022-06-15 15:15:37,880 | Order ID: 272  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:37,917 | Order ID: 272  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:37,985 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:37,986 | Executing order ID: 273 ACTION BUY.
+2022-06-15 15:15:38,019 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:38,019 | Executing order ID: 274 ACTION BUY.
+2022-06-15 15:15:38,067 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:38,067 | Executing order ID: 275 ACTION BUY.
+2022-06-15 15:15:38,168 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:38,168 | Executing order ID: 276 ACTION BUY.
+2022-06-15 15:15:38,208 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:38,209 | Executing order ID: 277 ACTION BUY.
+2022-06-15 15:15:38,251 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:38,251 | Executing order ID: 278 ACTION BUY.
+2022-06-15 15:15:38,294 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:38,294 | Executing order ID: 279 ACTION BUY.
+2022-06-15 15:15:38,342 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:38,342 | Executing order ID: 280 ACTION BUY.
+2022-06-15 15:15:38,382 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:38,382 | Executing order ID: 281 ACTION BUY.
+2022-06-15 15:15:38,428 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:38,429 | Executing order ID: 282 ACTION BUY.
+2022-06-15 15:15:38,472 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:38,472 | Executing order ID: 283 ACTION BUY.
+2022-06-15 15:15:38,544 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:38,544 | Executing order ID: 284 ACTION BUY.
+2022-06-15 15:15:38,610 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:38,610 | Executing order ID: 285 ACTION BUY.
+2022-06-15 15:15:38,658 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:38,658 | Executing order ID: 286 ACTION BUY.
+2022-06-15 15:15:38,701 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:38,701 | Executing order ID: 287 ACTION BUY.
+2022-06-15 15:15:38,744 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:38,744 | Executing order ID: 288 ACTION BUY.
+2022-06-15 15:15:38,788 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:38,788 | Executing order ID: 289 ACTION BUY.
+2022-06-15 15:15:38,835 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:38,835 | Executing order ID: 290 ACTION BUY.
+2022-06-15 15:15:38,879 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:38,879 | Executing order ID: 291 ACTION BUY.
+2022-06-15 15:15:38,924 |                                                             CUMULATIVE REWARD: -0.004276625171462212.
+2022-06-15 15:15:38,924 | Executing order ID: 292 ACTION BUY.
+2022-06-15 15:15:39,016 | Executing order ID: 293 ACTION SELL.
+2022-06-15 15:15:39,225 | Order ID: 293 executed
+2022-06-15 15:15:39,232 | Entered into FLAT position.
+2022-06-15 15:15:39,232 |                                                             CUMULATIVE REWARD: -0.003159357283328501.
+2022-06-15 15:15:39,383 | Executing order ID: 294 ACTION SELL.
+2022-06-15 15:15:39,587 | Order ID: 294 executed
+2022-06-15 15:15:39,588 | Entered into SHORT position.
+2022-06-15 15:15:39,588 |                                                             CUMULATIVE REWARD: -0.003159357283328501.
+2022-06-15 15:15:39,597 | Executing order ID: 295 ACTION BUY.
+2022-06-15 15:15:39,802 | Order ID: 295 executed
+2022-06-15 15:15:39,802 | Entered into FLAT position.
+2022-06-15 15:15:39,804 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:39,837 | Executing order ID: 296 ACTION SELL.
+2022-06-15 15:15:40,048 | Order ID: 296 executed
+2022-06-15 15:15:40,048 | Entered into SHORT position.
+2022-06-15 15:15:40,048 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:40,115 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:40,115 | Executing order ID: 297 ACTION SELL.
+2022-06-15 15:15:40,157 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:40,157 | Executing order ID: 298 ACTION SELL.
+2022-06-15 15:15:40,196 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:40,196 | Executing order ID: 299 ACTION SELL.
+2022-06-15 15:15:40,240 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:40,240 | Executing order ID: 300 ACTION SELL.
+2022-06-15 15:15:40,287 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:40,287 | Executing order ID: 301 ACTION SELL.
+2022-06-15 15:15:40,329 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:40,329 | Executing order ID: 302 ACTION SELL.
+2022-06-15 15:15:40,375 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:40,375 | Executing order ID: 303 ACTION SELL.
+2022-06-15 15:15:40,410 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:40,410 | Executing order ID: 304 ACTION SELL.
+2022-06-15 15:15:40,457 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:40,457 | Executing order ID: 305 ACTION SELL.
+2022-06-15 15:15:40,501 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:40,501 | Executing order ID: 306 ACTION SELL.
+2022-06-15 15:15:40,549 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:40,549 | Executing order ID: 307 ACTION SELL.
+2022-06-15 15:15:40,586 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:40,586 | Executing order ID: 308 ACTION SELL.
+2022-06-15 15:15:40,631 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:40,632 | Executing order ID: 309 ACTION SELL.
+2022-06-15 15:15:40,678 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:40,678 | Executing order ID: 310 ACTION SELL.
+2022-06-15 15:15:40,719 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:40,720 | Executing order ID: 311 ACTION SELL.
+2022-06-15 15:15:40,760 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:40,760 | Executing order ID: 312 ACTION SELL.
+2022-06-15 15:15:40,798 | Executing order ID: 313 ACTION BUY.
+2022-06-15 15:15:40,943 | Order ID: 313  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:40,980 | Order ID: 313  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:41,020 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:41,021 | Executing order ID: 314 ACTION SELL.
+2022-06-15 15:15:41,065 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:41,065 | Executing order ID: 315 ACTION SELL.
+2022-06-15 15:15:41,110 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:41,111 | Executing order ID: 316 ACTION SELL.
+2022-06-15 15:15:41,152 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:41,152 | Executing order ID: 317 ACTION SELL.
+2022-06-15 15:15:41,196 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:41,196 | Executing order ID: 318 ACTION SELL.
+2022-06-15 15:15:41,242 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:41,243 | Executing order ID: 319 ACTION SELL.
+2022-06-15 15:15:41,280 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:41,281 | Executing order ID: 320 ACTION SELL.
+2022-06-15 15:15:41,328 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:41,328 | Executing order ID: 321 ACTION SELL.
+2022-06-15 15:15:41,377 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:41,378 | Executing order ID: 322 ACTION SELL.
+2022-06-15 15:15:41,422 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:41,422 | Executing order ID: 323 ACTION SELL.
+2022-06-15 15:15:41,464 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:41,464 | Executing order ID: 324 ACTION SELL.
+2022-06-15 15:15:41,508 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:41,509 | Executing order ID: 325 ACTION SELL.
+2022-06-15 15:15:41,551 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:41,551 | Executing order ID: 326 ACTION SELL.
+2022-06-15 15:15:41,595 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:41,595 | Executing order ID: 327 ACTION SELL.
+2022-06-15 15:15:41,636 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:41,636 | Executing order ID: 328 ACTION SELL.
+2022-06-15 15:15:41,684 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:41,684 | Executing order ID: 329 ACTION SELL.
+2022-06-15 15:15:41,728 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:41,728 | Executing order ID: 330 ACTION SELL.
+2022-06-15 15:15:41,770 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:41,770 | Executing order ID: 331 ACTION SELL.
+2022-06-15 15:15:41,819 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:41,819 | Executing order ID: 332 ACTION SELL.
+2022-06-15 15:15:41,865 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:41,865 | Executing order ID: 333 ACTION SELL.
+2022-06-15 15:15:41,909 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:41,909 | Executing order ID: 334 ACTION SELL.
+2022-06-15 15:15:41,952 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:41,952 | Executing order ID: 335 ACTION SELL.
+2022-06-15 15:15:41,995 | Executing order ID: 336 ACTION BUY.
+2022-06-15 15:15:42,132 | Order ID: 336  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:42,177 | Order ID: 336  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:42,220 | Executing order ID: 337 ACTION BUY.
+2022-06-15 15:15:42,364 | Order ID: 337  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:42,399 | Order ID: 337  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:42,445 | Executing order ID: 338 ACTION BUY.
+2022-06-15 15:15:42,588 | Order ID: 338  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:42,622 | Order ID: 338  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:42,664 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:42,664 | Executing order ID: 339 ACTION SELL.
+2022-06-15 15:15:42,708 | Executing order ID: 340 ACTION HOLD.
+2022-06-15 15:15:42,756 | Executing order ID: 341 ACTION HOLD.
+2022-06-15 15:15:42,796 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:42,796 | Executing order ID: 342 ACTION SELL.
+2022-06-15 15:15:42,839 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:42,840 | Executing order ID: 343 ACTION SELL.
+2022-06-15 15:15:42,885 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:42,885 | Executing order ID: 344 ACTION SELL.
+2022-06-15 15:15:42,929 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:42,929 | Executing order ID: 345 ACTION SELL.
+2022-06-15 15:15:42,978 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:42,978 | Executing order ID: 346 ACTION SELL.
+2022-06-15 15:15:43,023 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:43,023 | Executing order ID: 347 ACTION SELL.
+2022-06-15 15:15:43,065 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:43,065 | Executing order ID: 348 ACTION SELL.
+2022-06-15 15:15:43,110 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:43,110 | Executing order ID: 349 ACTION SELL.
+2022-06-15 15:15:43,154 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:43,154 | Executing order ID: 350 ACTION SELL.
+2022-06-15 15:15:43,197 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:43,197 | Executing order ID: 351 ACTION SELL.
+2022-06-15 15:15:43,241 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:43,241 | Executing order ID: 352 ACTION SELL.
+2022-06-15 15:15:43,284 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:43,284 | Executing order ID: 353 ACTION SELL.
+2022-06-15 15:15:43,339 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:43,339 | Executing order ID: 354 ACTION SELL.
+2022-06-15 15:15:43,393 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:43,393 | Executing order ID: 355 ACTION SELL.
+2022-06-15 15:15:43,452 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:43,452 | Executing order ID: 356 ACTION SELL.
+2022-06-15 15:15:43,512 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:43,513 | Executing order ID: 357 ACTION SELL.
+2022-06-15 15:15:43,562 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:43,562 | Executing order ID: 358 ACTION SELL.
+2022-06-15 15:15:43,616 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:43,616 | Executing order ID: 359 ACTION SELL.
+2022-06-15 15:15:43,666 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:43,666 | Executing order ID: 360 ACTION SELL.
+2022-06-15 15:15:43,716 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:43,716 | Executing order ID: 361 ACTION SELL.
+2022-06-15 15:15:43,767 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:43,767 | Executing order ID: 362 ACTION SELL.
+2022-06-15 15:15:43,814 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:43,814 | Executing order ID: 363 ACTION SELL.
+2022-06-15 15:15:43,894 |                                                             CUMULATIVE REWARD: -0.0041165504074365256.
+2022-06-15 15:15:43,894 | Executing order ID: 364 ACTION SELL.
+2022-06-15 15:15:43,964 | Executing order ID: 365 ACTION BUY.
+2022-06-15 15:15:44,164 | Order ID: 365 executed
+2022-06-15 15:15:44,164 | Entered into FLAT position.
+2022-06-15 15:15:44,165 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:44,191 | Executing order ID: 366 ACTION BUY.
+2022-06-15 15:15:44,391 | Order ID: 366 executed
+2022-06-15 15:15:44,396 | Entered into LONG position.
+2022-06-15 15:15:44,396 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:44,415 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:44,415 | Executing order ID: 367 ACTION BUY.
+2022-06-15 15:15:44,657 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:44,657 | Executing order ID: 368 ACTION BUY.
+2022-06-15 15:15:44,714 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:44,714 | Executing order ID: 369 ACTION BUY.
+2022-06-15 15:15:44,756 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:44,756 | Executing order ID: 370 ACTION BUY.
+2022-06-15 15:15:44,803 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:44,803 | Executing order ID: 371 ACTION BUY.
+2022-06-15 15:15:44,853 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:44,853 | Executing order ID: 372 ACTION BUY.
+2022-06-15 15:15:44,891 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:44,891 | Executing order ID: 373 ACTION BUY.
+2022-06-15 15:15:44,937 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:44,937 | Executing order ID: 374 ACTION BUY.
+2022-06-15 15:15:44,972 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:44,972 | Executing order ID: 375 ACTION BUY.
+2022-06-15 15:15:45,020 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:45,020 | Executing order ID: 376 ACTION BUY.
+2022-06-15 15:15:45,064 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:45,064 | Executing order ID: 377 ACTION BUY.
+2022-06-15 15:15:45,101 | Executing order ID: 378 ACTION SELL.
+2022-06-15 15:15:45,250 | Order ID: 378  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:45,283 | Order ID: 378  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:45,329 | Executing order ID: 379 ACTION SELL.
+2022-06-15 15:15:45,463 | Order ID: 379  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:45,508 | Order ID: 379  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:45,550 | Executing order ID: 380 ACTION SELL.
+2022-06-15 15:15:45,694 | Order ID: 380  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:45,729 | Order ID: 380  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:45,764 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:45,764 | Executing order ID: 381 ACTION BUY.
+2022-06-15 15:15:45,811 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:45,811 | Executing order ID: 382 ACTION BUY.
+2022-06-15 15:15:45,854 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:45,854 | Executing order ID: 383 ACTION BUY.
+2022-06-15 15:15:45,897 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:45,898 | Executing order ID: 384 ACTION BUY.
+2022-06-15 15:15:45,944 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:45,944 | Executing order ID: 385 ACTION BUY.
+2022-06-15 15:15:45,982 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:45,982 | Executing order ID: 386 ACTION BUY.
+2022-06-15 15:15:46,030 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:46,030 | Executing order ID: 387 ACTION BUY.
+2022-06-15 15:15:46,091 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:46,091 | Executing order ID: 388 ACTION BUY.
+2022-06-15 15:15:46,158 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:46,158 | Executing order ID: 389 ACTION BUY.
+2022-06-15 15:15:46,198 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:46,199 | Executing order ID: 390 ACTION BUY.
+2022-06-15 15:15:46,247 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:46,247 | Executing order ID: 391 ACTION BUY.
+2022-06-15 15:15:46,284 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:46,284 | Executing order ID: 392 ACTION BUY.
+2022-06-15 15:15:46,337 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:46,337 | Executing order ID: 393 ACTION BUY.
+2022-06-15 15:15:46,375 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:46,375 | Executing order ID: 394 ACTION BUY.
+2022-06-15 15:15:46,425 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:46,425 | Executing order ID: 395 ACTION BUY.
+2022-06-15 15:15:46,470 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:46,470 | Executing order ID: 396 ACTION BUY.
+2022-06-15 15:15:46,513 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:46,514 | Executing order ID: 397 ACTION BUY.
+2022-06-15 15:15:46,556 | Executing order ID: 398 ACTION HOLD.
+2022-06-15 15:15:46,598 | Executing order ID: 399 ACTION HOLD.
+2022-06-15 15:15:46,642 | Executing order ID: 400 ACTION HOLD.
+2022-06-15 15:15:46,690 | Executing order ID: 401 ACTION HOLD.
+2022-06-15 15:15:46,733 | Executing order ID: 402 ACTION HOLD.
+2022-06-15 15:15:46,785 | Executing order ID: 403 ACTION HOLD.
+2022-06-15 15:15:46,831 | Executing order ID: 404 ACTION HOLD.
+2022-06-15 15:15:46,869 | Executing order ID: 405 ACTION HOLD.
+2022-06-15 15:15:46,917 | Executing order ID: 406 ACTION HOLD.
+2022-06-15 15:15:46,958 | Executing order ID: 407 ACTION HOLD.
+2022-06-15 15:15:47,007 | Executing order ID: 408 ACTION HOLD.
+2022-06-15 15:15:47,045 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:47,045 | Executing order ID: 409 ACTION BUY.
+2022-06-15 15:15:47,093 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:47,093 | Executing order ID: 410 ACTION BUY.
+2022-06-15 15:15:47,130 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:47,130 | Executing order ID: 411 ACTION BUY.
+2022-06-15 15:15:47,179 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:47,179 | Executing order ID: 412 ACTION BUY.
+2022-06-15 15:15:47,230 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:47,231 | Executing order ID: 413 ACTION BUY.
+2022-06-15 15:15:47,270 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:47,271 | Executing order ID: 414 ACTION BUY.
+2022-06-15 15:15:47,318 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:47,318 | Executing order ID: 415 ACTION BUY.
+2022-06-15 15:15:47,356 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:47,356 | Executing order ID: 416 ACTION BUY.
+2022-06-15 15:15:47,405 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:47,405 | Executing order ID: 417 ACTION BUY.
+2022-06-15 15:15:47,450 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:47,450 | Executing order ID: 418 ACTION BUY.
+2022-06-15 15:15:47,494 | Executing order ID: 419 ACTION SELL.
+2022-06-15 15:15:47,634 | Order ID: 419  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:47,672 | Order ID: 419  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:47,720 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:47,720 | Executing order ID: 420 ACTION BUY.
+2022-06-15 15:15:47,766 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:47,766 | Executing order ID: 421 ACTION BUY.
+2022-06-15 15:15:47,809 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:47,809 | Executing order ID: 422 ACTION BUY.
+2022-06-15 15:15:47,853 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:47,853 | Executing order ID: 423 ACTION BUY.
+2022-06-15 15:15:47,889 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:47,889 | Executing order ID: 424 ACTION BUY.
+2022-06-15 15:15:47,932 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:47,932 | Executing order ID: 425 ACTION BUY.
+2022-06-15 15:15:47,975 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:47,975 | Executing order ID: 426 ACTION BUY.
+2022-06-15 15:15:48,023 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:48,023 | Executing order ID: 427 ACTION BUY.
+2022-06-15 15:15:48,061 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:48,061 | Executing order ID: 428 ACTION BUY.
+2022-06-15 15:15:48,108 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:48,108 | Executing order ID: 429 ACTION BUY.
+2022-06-15 15:15:48,151 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:48,151 | Executing order ID: 430 ACTION BUY.
+2022-06-15 15:15:48,200 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:48,200 | Executing order ID: 431 ACTION BUY.
+2022-06-15 15:15:48,239 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:48,239 | Executing order ID: 432 ACTION BUY.
+2022-06-15 15:15:48,286 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:48,286 | Executing order ID: 433 ACTION BUY.
+2022-06-15 15:15:48,329 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:48,329 | Executing order ID: 434 ACTION BUY.
+2022-06-15 15:15:48,365 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:48,365 | Executing order ID: 435 ACTION BUY.
+2022-06-15 15:15:48,411 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:48,411 | Executing order ID: 436 ACTION BUY.
+2022-06-15 15:15:48,460 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:48,460 | Executing order ID: 437 ACTION BUY.
+2022-06-15 15:15:48,505 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:48,505 | Executing order ID: 438 ACTION BUY.
+2022-06-15 15:15:48,550 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:48,550 | Executing order ID: 439 ACTION BUY.
+2022-06-15 15:15:48,588 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:48,588 | Executing order ID: 440 ACTION BUY.
+2022-06-15 15:15:48,639 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:48,640 | Executing order ID: 441 ACTION BUY.
+2022-06-15 15:15:48,691 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:48,691 | Executing order ID: 442 ACTION BUY.
+2022-06-15 15:15:48,737 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:48,737 | Executing order ID: 443 ACTION BUY.
+2022-06-15 15:15:48,781 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:48,781 | Executing order ID: 444 ACTION BUY.
+2022-06-15 15:15:48,819 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:48,819 | Executing order ID: 445 ACTION BUY.
+2022-06-15 15:15:48,866 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:48,866 | Executing order ID: 446 ACTION BUY.
+2022-06-15 15:15:48,914 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:48,914 | Executing order ID: 447 ACTION BUY.
+2022-06-15 15:15:48,959 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:48,959 | Executing order ID: 448 ACTION BUY.
+2022-06-15 15:15:49,004 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:49,004 | Executing order ID: 449 ACTION BUY.
+2022-06-15 15:15:49,050 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:49,050 | Executing order ID: 450 ACTION BUY.
+2022-06-15 15:15:49,094 | Executing order ID: 451 ACTION SELL.
+2022-06-15 15:15:49,237 | Order ID: 451  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:49,279 | Order ID: 451  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:49,324 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:49,324 | Executing order ID: 452 ACTION BUY.
+2022-06-15 15:15:49,370 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:49,370 | Executing order ID: 453 ACTION BUY.
+2022-06-15 15:15:49,415 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:49,415 | Executing order ID: 454 ACTION BUY.
+2022-06-15 15:15:49,462 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:49,462 | Executing order ID: 455 ACTION BUY.
+2022-06-15 15:15:49,504 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:49,504 | Executing order ID: 456 ACTION BUY.
+2022-06-15 15:15:49,545 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:49,545 | Executing order ID: 457 ACTION BUY.
+2022-06-15 15:15:49,589 | Executing order ID: 458 ACTION SELL.
+2022-06-15 15:15:49,742 | Order ID: 458  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:49,772 | Order ID: 458  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:49,820 | Executing order ID: 459 ACTION SELL.
+2022-06-15 15:15:49,955 | Order ID: 459  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:49,994 | Order ID: 459  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:50,035 | Executing order ID: 460 ACTION SELL.
+2022-06-15 15:15:50,180 | Order ID: 460  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:50,219 | Order ID: 460  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:50,257 | Executing order ID: 461 ACTION SELL.
+2022-06-15 15:15:50,395 | Order ID: 461  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:50,442 | Order ID: 461  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:50,478 | Executing order ID: 462 ACTION SELL.
+2022-06-15 15:15:50,620 | Order ID: 462  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:50,655 | Order ID: 462  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:50,701 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:50,701 | Executing order ID: 463 ACTION BUY.
+2022-06-15 15:15:50,738 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:50,738 | Executing order ID: 464 ACTION BUY.
+2022-06-15 15:15:50,791 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:50,791 | Executing order ID: 465 ACTION BUY.
+2022-06-15 15:15:50,831 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:50,831 | Executing order ID: 466 ACTION BUY.
+2022-06-15 15:15:50,880 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:50,881 | Executing order ID: 467 ACTION BUY.
+2022-06-15 15:15:50,918 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:50,918 | Executing order ID: 468 ACTION BUY.
+2022-06-15 15:15:50,967 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:50,967 | Executing order ID: 469 ACTION BUY.
+2022-06-15 15:15:51,005 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:51,005 | Executing order ID: 470 ACTION BUY.
+2022-06-15 15:15:51,052 | Executing order ID: 471 ACTION SELL.
+2022-06-15 15:15:51,196 | Order ID: 471  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:51,228 | Order ID: 471  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:51,276 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:51,276 | Executing order ID: 472 ACTION BUY.
+2022-06-15 15:15:51,322 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:51,322 | Executing order ID: 473 ACTION BUY.
+2022-06-15 15:15:51,367 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:51,367 | Executing order ID: 474 ACTION BUY.
+2022-06-15 15:15:51,409 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:51,409 | Executing order ID: 475 ACTION BUY.
+2022-06-15 15:15:51,449 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:51,449 | Executing order ID: 476 ACTION BUY.
+2022-06-15 15:15:51,486 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:51,487 | Executing order ID: 477 ACTION BUY.
+2022-06-15 15:15:51,530 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:51,530 | Executing order ID: 478 ACTION BUY.
+2022-06-15 15:15:51,575 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:51,575 | Executing order ID: 479 ACTION BUY.
+2022-06-15 15:15:51,627 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:51,627 | Executing order ID: 480 ACTION BUY.
+2022-06-15 15:15:51,669 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:51,669 | Executing order ID: 481 ACTION BUY.
+2022-06-15 15:15:51,718 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:51,718 | Executing order ID: 482 ACTION BUY.
+2022-06-15 15:15:51,756 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:51,757 | Executing order ID: 483 ACTION BUY.
+2022-06-15 15:15:51,802 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:51,802 | Executing order ID: 484 ACTION BUY.
+2022-06-15 15:15:51,849 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:51,849 | Executing order ID: 485 ACTION BUY.
+2022-06-15 15:15:51,887 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:51,887 | Executing order ID: 486 ACTION BUY.
+2022-06-15 15:15:51,930 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:51,930 | Executing order ID: 487 ACTION BUY.
+2022-06-15 15:15:51,975 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:51,975 | Executing order ID: 488 ACTION BUY.
+2022-06-15 15:15:52,018 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:52,018 | Executing order ID: 489 ACTION BUY.
+2022-06-15 15:15:52,067 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:52,068 | Executing order ID: 490 ACTION BUY.
+2022-06-15 15:15:52,108 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:52,108 | Executing order ID: 491 ACTION BUY.
+2022-06-15 15:15:52,152 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:52,152 | Executing order ID: 492 ACTION BUY.
+2022-06-15 15:15:52,200 | Executing order ID: 493 ACTION HOLD.
+2022-06-15 15:15:52,246 | Executing order ID: 494 ACTION SELL.
+2022-06-15 15:15:52,383 | Order ID: 494  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:52,419 | Order ID: 494  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:52,634 | Executing order ID: 495 ACTION SELL.
+2022-06-15 15:15:52,770 | Order ID: 495  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:52,806 | Order ID: 495  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:52,840 | Executing order ID: 496 ACTION SELL.
+2022-06-15 15:15:52,976 | Order ID: 496  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:53,008 | Order ID: 496  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:53,054 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:53,054 | Executing order ID: 497 ACTION BUY.
+2022-06-15 15:15:53,089 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:53,090 | Executing order ID: 498 ACTION BUY.
+2022-06-15 15:15:53,134 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:53,134 | Executing order ID: 499 ACTION BUY.
+2022-06-15 15:15:53,174 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:53,174 | Executing order ID: 500 ACTION BUY.
+2022-06-15 15:15:53,221 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:53,222 | Executing order ID: 501 ACTION BUY.
+2022-06-15 15:15:53,263 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:53,263 | Executing order ID: 502 ACTION BUY.
+2022-06-15 15:15:53,303 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:53,303 | Executing order ID: 503 ACTION BUY.
+2022-06-15 15:15:53,347 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:53,347 | Executing order ID: 504 ACTION BUY.
+2022-06-15 15:15:53,382 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:53,383 | Executing order ID: 505 ACTION BUY.
+2022-06-15 15:15:53,429 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:53,429 | Executing order ID: 506 ACTION BUY.
+2022-06-15 15:15:53,471 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:53,472 | Executing order ID: 507 ACTION BUY.
+2022-06-15 15:15:53,514 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:53,514 | Executing order ID: 508 ACTION BUY.
+2022-06-15 15:15:53,554 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:53,554 | Executing order ID: 509 ACTION BUY.
+2022-06-15 15:15:53,591 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:53,592 | Executing order ID: 510 ACTION BUY.
+2022-06-15 15:15:53,637 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:53,637 | Executing order ID: 511 ACTION BUY.
+2022-06-15 15:15:53,683 | Executing order ID: 512 ACTION SELL.
+2022-06-15 15:15:53,821 | Order ID: 512  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:53,850 | Order ID: 512  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:53,892 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:53,892 | Executing order ID: 513 ACTION BUY.
+2022-06-15 15:15:53,938 | Executing order ID: 514 ACTION SELL.
+2022-06-15 15:15:54,067 | Order ID: 514  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:54,100 | Order ID: 514  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:54,146 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:54,146 | Executing order ID: 515 ACTION BUY.
+2022-06-15 15:15:54,192 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:54,192 | Executing order ID: 516 ACTION BUY.
+2022-06-15 15:15:54,234 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:54,234 | Executing order ID: 517 ACTION BUY.
+2022-06-15 15:15:54,275 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:54,275 | Executing order ID: 518 ACTION BUY.
+2022-06-15 15:15:54,314 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:54,314 | Executing order ID: 519 ACTION BUY.
+2022-06-15 15:15:54,350 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:54,350 | Executing order ID: 520 ACTION BUY.
+2022-06-15 15:15:54,394 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:54,394 | Executing order ID: 521 ACTION BUY.
+2022-06-15 15:15:54,434 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:54,434 | Executing order ID: 522 ACTION BUY.
+2022-06-15 15:15:54,484 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:54,484 | Executing order ID: 523 ACTION BUY.
+2022-06-15 15:15:54,519 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:54,519 | Executing order ID: 524 ACTION BUY.
+2022-06-15 15:15:54,565 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:54,565 | Executing order ID: 525 ACTION BUY.
+2022-06-15 15:15:54,601 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:54,601 | Executing order ID: 526 ACTION BUY.
+2022-06-15 15:15:54,646 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:54,646 | Executing order ID: 527 ACTION BUY.
+2022-06-15 15:15:54,691 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:54,691 | Executing order ID: 528 ACTION BUY.
+2022-06-15 15:15:54,734 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:54,734 | Executing order ID: 529 ACTION BUY.
+2022-06-15 15:15:54,776 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:54,776 | Executing order ID: 530 ACTION BUY.
+2022-06-15 15:15:54,815 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:54,815 | Executing order ID: 531 ACTION BUY.
+2022-06-15 15:15:54,854 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:54,854 | Executing order ID: 532 ACTION BUY.
+2022-06-15 15:15:54,903 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:54,904 | Executing order ID: 533 ACTION BUY.
+2022-06-15 15:15:54,946 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:54,946 | Executing order ID: 534 ACTION BUY.
+2022-06-15 15:15:54,987 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:54,987 | Executing order ID: 535 ACTION BUY.
+2022-06-15 15:15:55,029 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:55,029 | Executing order ID: 536 ACTION BUY.
+2022-06-15 15:15:55,072 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:55,073 | Executing order ID: 537 ACTION BUY.
+2022-06-15 15:15:55,119 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:55,119 | Executing order ID: 538 ACTION BUY.
+2022-06-15 15:15:55,155 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:55,155 | Executing order ID: 539 ACTION BUY.
+2022-06-15 15:15:55,203 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:55,203 | Executing order ID: 540 ACTION BUY.
+2022-06-15 15:15:55,239 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:55,239 | Executing order ID: 541 ACTION BUY.
+2022-06-15 15:15:55,285 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:55,286 | Executing order ID: 542 ACTION BUY.
+2022-06-15 15:15:55,336 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:55,336 | Executing order ID: 543 ACTION BUY.
+2022-06-15 15:15:55,385 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:55,385 | Executing order ID: 544 ACTION BUY.
+2022-06-15 15:15:55,424 | Executing order ID: 545 ACTION SELL.
+2022-06-15 15:15:55,565 | Order ID: 545  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:55,595 | Order ID: 545  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:55,639 | Executing order ID: 546 ACTION SELL.
+2022-06-15 15:15:55,781 | Order ID: 546  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:55,812 | Order ID: 546  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:55,857 | Executing order ID: 547 ACTION SELL.
+2022-06-15 15:15:55,989 | Order ID: 547  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:56,025 | Order ID: 547  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:56,072 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:56,072 | Executing order ID: 548 ACTION BUY.
+2022-06-15 15:15:56,109 | Executing order ID: 549 ACTION HOLD.
+2022-06-15 15:15:56,154 | Executing order ID: 550 ACTION HOLD.
+2022-06-15 15:15:56,199 | Executing order ID: 551 ACTION HOLD.
+2022-06-15 15:15:56,243 | Executing order ID: 552 ACTION HOLD.
+2022-06-15 15:15:56,284 | Executing order ID: 553 ACTION HOLD.
+2022-06-15 15:15:56,325 | Executing order ID: 554 ACTION HOLD.
+2022-06-15 15:15:56,363 | Executing order ID: 555 ACTION HOLD.
+2022-06-15 15:15:56,401 | Executing order ID: 556 ACTION SELL.
+2022-06-15 15:15:56,544 | Order ID: 556  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:56,587 | Order ID: 556  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:56,636 | Executing order ID: 557 ACTION SELL.
+2022-06-15 15:15:56,773 | Order ID: 557  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:56,806 | Order ID: 557  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:56,851 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:56,851 | Executing order ID: 558 ACTION BUY.
+2022-06-15 15:15:56,893 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:56,893 | Executing order ID: 559 ACTION BUY.
+2022-06-15 15:15:56,935 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:56,935 | Executing order ID: 560 ACTION BUY.
+2022-06-15 15:15:56,975 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:56,975 | Executing order ID: 561 ACTION BUY.
+2022-06-15 15:15:57,014 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:57,014 | Executing order ID: 562 ACTION BUY.
+2022-06-15 15:15:57,053 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:57,053 | Executing order ID: 563 ACTION BUY.
+2022-06-15 15:15:57,097 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:57,097 | Executing order ID: 564 ACTION BUY.
+2022-06-15 15:15:57,137 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:57,137 | Executing order ID: 565 ACTION BUY.
+2022-06-15 15:15:57,183 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:57,183 | Executing order ID: 566 ACTION BUY.
+2022-06-15 15:15:57,231 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:57,232 | Executing order ID: 567 ACTION BUY.
+2022-06-15 15:15:57,270 | Executing order ID: 568 ACTION SELL.
+2022-06-15 15:15:57,405 | Order ID: 568  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:57,440 | Order ID: 568  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:57,479 | Executing order ID: 569 ACTION SELL.
+2022-06-15 15:15:57,622 | Order ID: 569  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:57,653 | Order ID: 569  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:57,699 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:57,699 | Executing order ID: 570 ACTION BUY.
+2022-06-15 15:15:57,745 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:57,745 | Executing order ID: 571 ACTION BUY.
+2022-06-15 15:15:57,781 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:57,781 | Executing order ID: 572 ACTION BUY.
+2022-06-15 15:15:57,829 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:57,829 | Executing order ID: 573 ACTION BUY.
+2022-06-15 15:15:57,866 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:57,866 | Executing order ID: 574 ACTION BUY.
+2022-06-15 15:15:57,912 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:57,912 | Executing order ID: 575 ACTION BUY.
+2022-06-15 15:15:57,960 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:57,960 | Executing order ID: 576 ACTION BUY.
+2022-06-15 15:15:58,004 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:58,004 | Executing order ID: 577 ACTION BUY.
+2022-06-15 15:15:58,042 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:58,042 | Executing order ID: 578 ACTION BUY.
+2022-06-15 15:15:58,088 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:58,088 | Executing order ID: 579 ACTION BUY.
+2022-06-15 15:15:58,125 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:58,125 | Executing order ID: 580 ACTION BUY.
+2022-06-15 15:15:58,173 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:58,173 | Executing order ID: 581 ACTION BUY.
+2022-06-15 15:15:58,217 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:58,218 | Executing order ID: 582 ACTION BUY.
+2022-06-15 15:15:58,261 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:58,262 | Executing order ID: 583 ACTION BUY.
+2022-06-15 15:15:58,309 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:58,309 | Executing order ID: 584 ACTION BUY.
+2022-06-15 15:15:58,355 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:58,355 | Executing order ID: 585 ACTION BUY.
+2022-06-15 15:15:58,400 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:58,400 | Executing order ID: 586 ACTION BUY.
+2022-06-15 15:15:58,442 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:58,442 | Executing order ID: 587 ACTION BUY.
+2022-06-15 15:15:58,483 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:15:58,483 | Executing order ID: 588 ACTION BUY.
+2022-06-15 15:15:58,531 | Executing order ID: 589 ACTION SELL.
+2022-06-15 15:15:58,663 | Order ID: 589  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:58,697 | Order ID: 589  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:58,744 | Executing order ID: 590 ACTION SELL.
+2022-06-15 15:15:58,882 | Order ID: 590  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:58,918 | Order ID: 590  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:58,954 | Executing order ID: 591 ACTION SELL.
+2022-06-15 15:15:59,103 | Order ID: 591  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:59,143 | Order ID: 591  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:59,188 | Executing order ID: 592 ACTION SELL.
+2022-06-15 15:15:59,326 | Order ID: 592  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:59,356 | Order ID: 592  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:59,404 | Executing order ID: 593 ACTION HOLD.
+2022-06-15 15:15:59,446 | Executing order ID: 594 ACTION HOLD.
+2022-06-15 15:15:59,491 | Executing order ID: 595 ACTION HOLD.
+2022-06-15 15:15:59,527 | Executing order ID: 596 ACTION SELL.
+2022-06-15 15:15:59,663 | Order ID: 596  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:59,702 | Order ID: 596  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:59,746 | Executing order ID: 597 ACTION SELL.
+2022-06-15 15:15:59,880 | Order ID: 597  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:59,914 | Order ID: 597  SIGNAL: HOLD. Discarded.
+2022-06-15 15:15:59,948 | Executing order ID: 598 ACTION SELL.
+2022-06-15 15:16:00,085 | Order ID: 598  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:00,117 | Order ID: 598  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:00,167 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:00,167 | Executing order ID: 599 ACTION BUY.
+2022-06-15 15:16:00,209 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:00,209 | Executing order ID: 600 ACTION BUY.
+2022-06-15 15:16:00,253 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:00,253 | Executing order ID: 601 ACTION BUY.
+2022-06-15 15:16:00,294 | Executing order ID: 602 ACTION HOLD.
+2022-06-15 15:16:00,335 | Executing order ID: 603 ACTION HOLD.
+2022-06-15 15:16:00,382 | Executing order ID: 604 ACTION HOLD.
+2022-06-15 15:16:00,421 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:00,422 | Executing order ID: 605 ACTION BUY.
+2022-06-15 15:16:00,464 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:00,464 | Executing order ID: 606 ACTION BUY.
+2022-06-15 15:16:00,510 | Executing order ID: 607 ACTION HOLD.
+2022-06-15 15:16:00,554 | Executing order ID: 608 ACTION SELL.
+2022-06-15 15:16:00,691 | Order ID: 608  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:00,733 | Order ID: 608  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:00,776 | Executing order ID: 609 ACTION SELL.
+2022-06-15 15:16:00,910 | Order ID: 609  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:00,949 | Order ID: 609  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:00,984 | Executing order ID: 610 ACTION SELL.
+2022-06-15 15:16:01,118 | Order ID: 610  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:01,156 | Order ID: 610  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:01,196 | Executing order ID: 611 ACTION SELL.
+2022-06-15 15:16:01,336 | Order ID: 611  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:01,366 | Order ID: 611  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:01,413 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:01,413 | Executing order ID: 612 ACTION BUY.
+2022-06-15 15:16:01,456 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:01,456 | Executing order ID: 613 ACTION BUY.
+2022-06-15 15:16:01,499 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:01,500 | Executing order ID: 614 ACTION BUY.
+2022-06-15 15:16:01,540 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:01,541 | Executing order ID: 615 ACTION BUY.
+2022-06-15 15:16:01,579 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:01,579 | Executing order ID: 616 ACTION BUY.
+2022-06-15 15:16:01,615 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:01,615 | Executing order ID: 617 ACTION BUY.
+2022-06-15 15:16:01,665 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:01,665 | Executing order ID: 618 ACTION BUY.
+2022-06-15 15:16:01,703 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:01,703 | Executing order ID: 619 ACTION BUY.
+2022-06-15 15:16:01,747 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:01,747 | Executing order ID: 620 ACTION BUY.
+2022-06-15 15:16:01,793 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:01,793 | Executing order ID: 621 ACTION BUY.
+2022-06-15 15:16:01,836 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:01,836 | Executing order ID: 622 ACTION BUY.
+2022-06-15 15:16:01,880 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:01,880 | Executing order ID: 623 ACTION BUY.
+2022-06-15 15:16:01,922 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:01,922 | Executing order ID: 624 ACTION BUY.
+2022-06-15 15:16:01,964 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:01,965 | Executing order ID: 625 ACTION BUY.
+2022-06-15 15:16:02,006 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:02,006 | Executing order ID: 626 ACTION BUY.
+2022-06-15 15:16:02,047 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:02,047 | Executing order ID: 627 ACTION BUY.
+2022-06-15 15:16:02,093 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:02,093 | Executing order ID: 628 ACTION BUY.
+2022-06-15 15:16:02,132 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:02,133 | Executing order ID: 629 ACTION BUY.
+2022-06-15 15:16:02,180 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:02,180 | Executing order ID: 630 ACTION BUY.
+2022-06-15 15:16:02,225 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:02,225 | Executing order ID: 631 ACTION BUY.
+2022-06-15 15:16:02,264 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:02,265 | Executing order ID: 632 ACTION BUY.
+2022-06-15 15:16:02,304 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:02,304 | Executing order ID: 633 ACTION BUY.
+2022-06-15 15:16:02,352 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:02,352 | Executing order ID: 634 ACTION BUY.
+2022-06-15 15:16:02,397 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:02,397 | Executing order ID: 635 ACTION BUY.
+2022-06-15 15:16:02,435 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:02,435 | Executing order ID: 636 ACTION BUY.
+2022-06-15 15:16:02,483 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:02,483 | Executing order ID: 637 ACTION BUY.
+2022-06-15 15:16:02,527 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:02,528 | Executing order ID: 638 ACTION BUY.
+2022-06-15 15:16:02,574 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:02,574 | Executing order ID: 639 ACTION BUY.
+2022-06-15 15:16:02,617 | Executing order ID: 640 ACTION SELL.
+2022-06-15 15:16:02,755 | Order ID: 640  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:02,793 | Order ID: 640  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:02,831 | Executing order ID: 641 ACTION SELL.
+2022-06-15 15:16:02,966 | Order ID: 641  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:02,996 | Order ID: 641  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:03,042 | Executing order ID: 642 ACTION SELL.
+2022-06-15 15:16:03,177 | Order ID: 642  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:03,219 | Order ID: 642  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:03,263 | Executing order ID: 643 ACTION SELL.
+2022-06-15 15:16:03,393 | Order ID: 643  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:03,431 | Order ID: 643  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:03,472 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:03,472 | Executing order ID: 644 ACTION BUY.
+2022-06-15 15:16:03,515 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:03,515 | Executing order ID: 645 ACTION BUY.
+2022-06-15 15:16:03,556 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:03,556 | Executing order ID: 646 ACTION BUY.
+2022-06-15 15:16:03,604 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:03,604 | Executing order ID: 647 ACTION BUY.
+2022-06-15 15:16:03,645 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:03,645 | Executing order ID: 648 ACTION BUY.
+2022-06-15 15:16:03,686 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:03,686 | Executing order ID: 649 ACTION BUY.
+2022-06-15 15:16:03,729 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:03,729 | Executing order ID: 650 ACTION BUY.
+2022-06-15 15:16:03,772 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:03,773 | Executing order ID: 651 ACTION BUY.
+2022-06-15 15:16:03,816 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:03,816 | Executing order ID: 652 ACTION BUY.
+2022-06-15 15:16:03,858 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:03,859 | Executing order ID: 653 ACTION BUY.
+2022-06-15 15:16:03,899 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:03,899 | Executing order ID: 654 ACTION BUY.
+2022-06-15 15:16:03,939 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:03,939 | Executing order ID: 655 ACTION BUY.
+2022-06-15 15:16:03,987 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:03,987 | Executing order ID: 656 ACTION BUY.
+2022-06-15 15:16:04,034 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:04,034 | Executing order ID: 657 ACTION BUY.
+2022-06-15 15:16:04,072 | Executing order ID: 658 ACTION SELL.
+2022-06-15 15:16:04,215 | Order ID: 658  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:04,251 | Order ID: 658  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:04,299 | Executing order ID: 659 ACTION SELL.
+2022-06-15 15:16:04,436 | Order ID: 659  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:04,477 | Order ID: 659  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:04,519 | Executing order ID: 660 ACTION SELL.
+2022-06-15 15:16:04,653 | Order ID: 660  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:04,688 | Order ID: 660  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:04,729 | Executing order ID: 661 ACTION HOLD.
+2022-06-15 15:16:04,776 | Executing order ID: 662 ACTION HOLD.
+2022-06-15 15:16:04,815 | Executing order ID: 663 ACTION HOLD.
+2022-06-15 15:16:04,861 | Executing order ID: 664 ACTION HOLD.
+2022-06-15 15:16:04,898 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:04,898 | Executing order ID: 665 ACTION BUY.
+2022-06-15 15:16:04,945 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:04,945 | Executing order ID: 666 ACTION BUY.
+2022-06-15 15:16:04,986 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:04,986 | Executing order ID: 667 ACTION BUY.
+2022-06-15 15:16:05,029 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:05,029 | Executing order ID: 668 ACTION BUY.
+2022-06-15 15:16:05,068 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:05,068 | Executing order ID: 669 ACTION BUY.
+2022-06-15 15:16:05,107 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:05,107 | Executing order ID: 670 ACTION BUY.
+2022-06-15 15:16:05,152 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:05,153 | Executing order ID: 671 ACTION BUY.
+2022-06-15 15:16:05,197 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:05,197 | Executing order ID: 672 ACTION BUY.
+2022-06-15 15:16:05,237 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:05,237 | Executing order ID: 673 ACTION BUY.
+2022-06-15 15:16:05,286 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:05,286 | Executing order ID: 674 ACTION BUY.
+2022-06-15 15:16:05,323 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:05,323 | Executing order ID: 675 ACTION BUY.
+2022-06-15 15:16:05,371 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:05,371 | Executing order ID: 676 ACTION BUY.
+2022-06-15 15:16:05,414 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:05,414 | Executing order ID: 677 ACTION BUY.
+2022-06-15 15:16:05,455 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:05,455 | Executing order ID: 678 ACTION BUY.
+2022-06-15 15:16:05,493 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:05,493 | Executing order ID: 679 ACTION BUY.
+2022-06-15 15:16:05,536 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:05,536 | Executing order ID: 680 ACTION BUY.
+2022-06-15 15:16:05,589 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:05,590 | Executing order ID: 681 ACTION BUY.
+2022-06-15 15:16:05,629 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:05,630 | Executing order ID: 682 ACTION BUY.
+2022-06-15 15:16:05,670 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:05,670 | Executing order ID: 683 ACTION BUY.
+2022-06-15 15:16:05,717 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:05,717 | Executing order ID: 684 ACTION BUY.
+2022-06-15 15:16:05,763 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:05,763 | Executing order ID: 685 ACTION BUY.
+2022-06-15 15:16:05,804 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:05,804 | Executing order ID: 686 ACTION BUY.
+2022-06-15 15:16:05,856 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:05,856 | Executing order ID: 687 ACTION BUY.
+2022-06-15 15:16:05,904 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:05,904 | Executing order ID: 688 ACTION BUY.
+2022-06-15 15:16:05,948 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:05,948 | Executing order ID: 689 ACTION BUY.
+2022-06-15 15:16:05,991 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:05,991 | Executing order ID: 690 ACTION BUY.
+2022-06-15 15:16:06,036 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:06,037 | Executing order ID: 691 ACTION BUY.
+2022-06-15 15:16:06,078 | Executing order ID: 692 ACTION SELL.
+2022-06-15 15:16:06,218 | Order ID: 692  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:06,261 | Order ID: 692  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:06,306 | Executing order ID: 693 ACTION SELL.
+2022-06-15 15:16:06,446 | Order ID: 693  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:06,482 | Order ID: 693  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:06,523 | Executing order ID: 694 ACTION SELL.
+2022-06-15 15:16:06,660 | Order ID: 694  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:06,692 | Order ID: 694  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:06,746 | Executing order ID: 695 ACTION SELL.
+2022-06-15 15:16:06,883 | Order ID: 695  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:06,914 | Order ID: 695  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:06,960 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:06,960 | Executing order ID: 696 ACTION BUY.
+2022-06-15 15:16:07,004 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:07,004 | Executing order ID: 697 ACTION BUY.
+2022-06-15 15:16:07,046 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:07,046 | Executing order ID: 698 ACTION BUY.
+2022-06-15 15:16:07,086 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:07,086 | Executing order ID: 699 ACTION BUY.
+2022-06-15 15:16:07,133 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:07,133 | Executing order ID: 700 ACTION BUY.
+2022-06-15 15:16:07,174 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:07,174 | Executing order ID: 701 ACTION BUY.
+2022-06-15 15:16:07,215 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:07,215 | Executing order ID: 702 ACTION BUY.
+2022-06-15 15:16:07,258 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:07,258 | Executing order ID: 703 ACTION BUY.
+2022-06-15 15:16:07,303 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:07,303 | Executing order ID: 704 ACTION BUY.
+2022-06-15 15:16:07,345 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:07,345 | Executing order ID: 705 ACTION BUY.
+2022-06-15 15:16:07,384 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:07,384 | Executing order ID: 706 ACTION BUY.
+2022-06-15 15:16:07,432 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:07,432 | Executing order ID: 707 ACTION BUY.
+2022-06-15 15:16:07,470 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:07,471 | Executing order ID: 708 ACTION BUY.
+2022-06-15 15:16:07,517 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:07,517 | Executing order ID: 709 ACTION BUY.
+2022-06-15 15:16:07,567 | Executing order ID: 710 ACTION SELL.
+2022-06-15 15:16:07,699 | Order ID: 710  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:07,737 | Order ID: 710  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:07,781 | Executing order ID: 711 ACTION SELL.
+2022-06-15 15:16:07,918 | Order ID: 711  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:07,952 | Order ID: 711  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:07,992 | Executing order ID: 712 ACTION SELL.
+2022-06-15 15:16:08,132 | Order ID: 712  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:08,165 | Order ID: 712  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:08,210 | Executing order ID: 713 ACTION SELL.
+2022-06-15 15:16:08,353 | Order ID: 713  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:08,392 | Order ID: 713  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:08,435 | Executing order ID: 714 ACTION SELL.
+2022-06-15 15:16:08,569 | Order ID: 714  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:08,612 | Order ID: 714  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:08,653 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:08,653 | Executing order ID: 715 ACTION BUY.
+2022-06-15 15:16:08,689 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:08,689 | Executing order ID: 716 ACTION BUY.
+2022-06-15 15:16:08,738 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:08,738 | Executing order ID: 717 ACTION BUY.
+2022-06-15 15:16:08,779 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:08,779 | Executing order ID: 718 ACTION BUY.
+2022-06-15 15:16:08,828 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:08,828 | Executing order ID: 719 ACTION BUY.
+2022-06-15 15:16:08,872 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:08,872 | Executing order ID: 720 ACTION BUY.
+2022-06-15 15:16:08,916 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:08,916 | Executing order ID: 721 ACTION BUY.
+2022-06-15 15:16:08,957 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:08,957 | Executing order ID: 722 ACTION BUY.
+2022-06-15 15:16:08,992 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:08,992 | Executing order ID: 723 ACTION BUY.
+2022-06-15 15:16:09,045 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:09,045 | Executing order ID: 724 ACTION BUY.
+2022-06-15 15:16:09,082 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:09,082 | Executing order ID: 725 ACTION BUY.
+2022-06-15 15:16:09,129 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:09,130 | Executing order ID: 726 ACTION BUY.
+2022-06-15 15:16:09,168 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:09,168 | Executing order ID: 727 ACTION BUY.
+2022-06-15 15:16:09,215 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:09,216 | Executing order ID: 728 ACTION BUY.
+2022-06-15 15:16:09,262 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:09,262 | Executing order ID: 729 ACTION BUY.
+2022-06-15 15:16:09,306 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:09,306 | Executing order ID: 730 ACTION BUY.
+2022-06-15 15:16:09,349 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:09,349 | Executing order ID: 731 ACTION BUY.
+2022-06-15 15:16:09,393 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:09,394 | Executing order ID: 732 ACTION BUY.
+2022-06-15 15:16:09,442 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:09,443 | Executing order ID: 733 ACTION BUY.
+2022-06-15 15:16:09,479 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:09,479 | Executing order ID: 734 ACTION BUY.
+2022-06-15 15:16:09,528 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:09,528 | Executing order ID: 735 ACTION BUY.
+2022-06-15 15:16:09,573 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:09,574 | Executing order ID: 736 ACTION BUY.
+2022-06-15 15:16:09,618 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:09,618 | Executing order ID: 737 ACTION BUY.
+2022-06-15 15:16:09,663 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:09,663 | Executing order ID: 738 ACTION BUY.
+2022-06-15 15:16:09,707 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:09,707 | Executing order ID: 739 ACTION BUY.
+2022-06-15 15:16:09,753 | Executing order ID: 740 ACTION SELL.
+2022-06-15 15:16:09,899 | Order ID: 740  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:09,935 | Order ID: 740  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:09,975 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:09,975 | Executing order ID: 741 ACTION BUY.
+2022-06-15 15:16:10,020 | Executing order ID: 742 ACTION SELL.
+2022-06-15 15:16:10,165 | Order ID: 742  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:10,210 | Order ID: 742  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:10,267 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:10,267 | Executing order ID: 743 ACTION BUY.
+2022-06-15 15:16:10,307 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:10,307 | Executing order ID: 744 ACTION BUY.
+2022-06-15 15:16:10,355 | Executing order ID: 745 ACTION SELL.
+2022-06-15 15:16:10,491 | Order ID: 745  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:10,534 | Order ID: 745  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:10,577 | Executing order ID: 746 ACTION SELL.
+2022-06-15 15:16:10,721 | Order ID: 746  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:10,758 | Order ID: 746  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:10,807 | Executing order ID: 747 ACTION SELL.
+2022-06-15 15:16:10,941 | Order ID: 747  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:10,977 | Order ID: 747  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:11,024 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:11,024 | Executing order ID: 748 ACTION BUY.
+2022-06-15 15:16:11,063 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:11,063 | Executing order ID: 749 ACTION BUY.
+2022-06-15 15:16:11,110 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:11,110 | Executing order ID: 750 ACTION BUY.
+2022-06-15 15:16:11,155 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:11,155 | Executing order ID: 751 ACTION BUY.
+2022-06-15 15:16:11,204 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:11,204 | Executing order ID: 752 ACTION BUY.
+2022-06-15 15:16:11,252 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:11,252 | Executing order ID: 753 ACTION BUY.
+2022-06-15 15:16:11,295 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:11,296 | Executing order ID: 754 ACTION BUY.
+2022-06-15 15:16:11,339 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:11,339 | Executing order ID: 755 ACTION BUY.
+2022-06-15 15:16:11,388 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:11,388 | Executing order ID: 756 ACTION BUY.
+2022-06-15 15:16:11,442 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:11,442 | Executing order ID: 757 ACTION BUY.
+2022-06-15 15:16:11,485 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:11,485 | Executing order ID: 758 ACTION BUY.
+2022-06-15 15:16:11,530 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:11,530 | Executing order ID: 759 ACTION BUY.
+2022-06-15 15:16:11,575 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:11,575 | Executing order ID: 760 ACTION BUY.
+2022-06-15 15:16:11,619 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:11,619 | Executing order ID: 761 ACTION BUY.
+2022-06-15 15:16:11,662 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:11,662 | Executing order ID: 762 ACTION BUY.
+2022-06-15 15:16:11,707 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:11,707 | Executing order ID: 763 ACTION BUY.
+2022-06-15 15:16:11,753 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:11,753 | Executing order ID: 764 ACTION BUY.
+2022-06-15 15:16:11,798 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:11,798 | Executing order ID: 765 ACTION BUY.
+2022-06-15 15:16:11,842 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:11,842 | Executing order ID: 766 ACTION BUY.
+2022-06-15 15:16:11,890 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:11,890 | Executing order ID: 767 ACTION BUY.
+2022-06-15 15:16:11,932 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:11,932 | Executing order ID: 768 ACTION BUY.
+2022-06-15 15:16:11,977 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:11,977 | Executing order ID: 769 ACTION BUY.
+2022-06-15 15:16:12,020 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:12,020 | Executing order ID: 770 ACTION BUY.
+2022-06-15 15:16:12,079 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:12,079 | Executing order ID: 771 ACTION BUY.
+2022-06-15 15:16:12,131 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:12,132 | Executing order ID: 772 ACTION BUY.
+2022-06-15 15:16:12,179 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:12,179 | Executing order ID: 773 ACTION BUY.
+2022-06-15 15:16:12,224 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:12,224 | Executing order ID: 774 ACTION BUY.
+2022-06-15 15:16:12,265 | Executing order ID: 775 ACTION HOLD.
+2022-06-15 15:16:12,314 | Executing order ID: 776 ACTION HOLD.
+2022-06-15 15:16:12,362 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:12,362 | Executing order ID: 777 ACTION BUY.
+2022-06-15 15:16:12,407 | Executing order ID: 778 ACTION SELL.
+2022-06-15 15:16:12,544 | Order ID: 778  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:12,578 | Order ID: 778  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:12,618 | Executing order ID: 779 ACTION SELL.
+2022-06-15 15:16:12,765 | Order ID: 779  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:12,808 | Order ID: 779  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:12,854 | Executing order ID: 780 ACTION SELL.
+2022-06-15 15:16:12,988 | Order ID: 780  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:13,023 | Order ID: 780  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:13,068 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:13,068 | Executing order ID: 781 ACTION BUY.
+2022-06-15 15:16:13,106 | Executing order ID: 782 ACTION SELL.
+2022-06-15 15:16:13,248 | Order ID: 782  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:13,284 | Order ID: 782  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:13,331 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:13,331 | Executing order ID: 783 ACTION BUY.
+2022-06-15 15:16:13,377 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:13,377 | Executing order ID: 784 ACTION BUY.
+2022-06-15 15:16:13,420 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:13,420 | Executing order ID: 785 ACTION BUY.
+2022-06-15 15:16:13,467 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:13,467 | Executing order ID: 786 ACTION BUY.
+2022-06-15 15:16:13,511 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:13,512 | Executing order ID: 787 ACTION BUY.
+2022-06-15 15:16:13,555 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:13,555 | Executing order ID: 788 ACTION BUY.
+2022-06-15 15:16:13,600 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:13,600 | Executing order ID: 789 ACTION BUY.
+2022-06-15 15:16:13,644 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:13,644 | Executing order ID: 790 ACTION BUY.
+2022-06-15 15:16:13,687 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:13,687 | Executing order ID: 791 ACTION BUY.
+2022-06-15 15:16:13,729 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:13,729 | Executing order ID: 792 ACTION BUY.
+2022-06-15 15:16:13,771 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:13,771 | Executing order ID: 793 ACTION BUY.
+2022-06-15 15:16:13,817 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:13,817 | Executing order ID: 794 ACTION BUY.
+2022-06-15 15:16:13,861 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:13,861 | Executing order ID: 795 ACTION BUY.
+2022-06-15 15:16:13,911 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:13,911 | Executing order ID: 796 ACTION BUY.
+2022-06-15 15:16:13,948 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:13,948 | Executing order ID: 797 ACTION BUY.
+2022-06-15 15:16:13,997 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:13,997 | Executing order ID: 798 ACTION BUY.
+2022-06-15 15:16:14,041 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:14,041 | Executing order ID: 799 ACTION BUY.
+2022-06-15 15:16:14,087 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:14,087 | Executing order ID: 800 ACTION BUY.
+2022-06-15 15:16:14,133 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:14,133 | Executing order ID: 801 ACTION BUY.
+2022-06-15 15:16:14,178 | Executing order ID: 802 ACTION SELL.
+2022-06-15 15:16:14,348 | Order ID: 802  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:14,388 | Executing order ID: 803 ACTION SELL.
+2022-06-15 15:16:14,542 | Order ID: 803  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:14,580 | Order ID: 803  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:14,625 | Executing order ID: 804 ACTION SELL.
+2022-06-15 15:16:14,792 | Order ID: 804  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:14,833 | Executing order ID: 805 ACTION SELL.
+2022-06-15 15:16:14,988 | Order ID: 805  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:15,028 | Order ID: 805  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:15,083 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:15,083 | Executing order ID: 806 ACTION BUY.
+2022-06-15 15:16:15,135 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:15,136 | Executing order ID: 807 ACTION BUY.
+2022-06-15 15:16:15,182 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:15,182 | Executing order ID: 808 ACTION BUY.
+2022-06-15 15:16:15,231 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:15,231 | Executing order ID: 809 ACTION BUY.
+2022-06-15 15:16:15,273 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:15,273 | Executing order ID: 810 ACTION BUY.
+2022-06-15 15:16:15,323 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:15,323 | Executing order ID: 811 ACTION BUY.
+2022-06-15 15:16:15,368 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:15,368 | Executing order ID: 812 ACTION BUY.
+2022-06-15 15:16:15,412 | Executing order ID: 813 ACTION SELL.
+2022-06-15 15:16:15,559 | Order ID: 813  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:15,602 | Order ID: 813  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:15,645 | Executing order ID: 814 ACTION HOLD.
+2022-06-15 15:16:15,688 | Executing order ID: 815 ACTION HOLD.
+2022-06-15 15:16:15,734 | Executing order ID: 816 ACTION HOLD.
+2022-06-15 15:16:15,781 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:15,782 | Executing order ID: 817 ACTION BUY.
+2022-06-15 15:16:15,824 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:15,824 | Executing order ID: 818 ACTION BUY.
+2022-06-15 15:16:15,870 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:15,870 | Executing order ID: 819 ACTION BUY.
+2022-06-15 15:16:15,907 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:15,907 | Executing order ID: 820 ACTION BUY.
+2022-06-15 15:16:15,958 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:15,958 | Executing order ID: 821 ACTION BUY.
+2022-06-15 15:16:15,995 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:15,995 | Executing order ID: 822 ACTION BUY.
+2022-06-15 15:16:16,043 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:16,043 | Executing order ID: 823 ACTION BUY.
+2022-06-15 15:16:16,088 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:16,088 | Executing order ID: 824 ACTION BUY.
+2022-06-15 15:16:16,133 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:16,133 | Executing order ID: 825 ACTION BUY.
+2022-06-15 15:16:16,178 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:16,179 | Executing order ID: 826 ACTION BUY.
+2022-06-15 15:16:16,215 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:16,215 | Executing order ID: 827 ACTION BUY.
+2022-06-15 15:16:16,264 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:16,264 | Executing order ID: 828 ACTION BUY.
+2022-06-15 15:16:16,309 | Executing order ID: 829 ACTION SELL.
+2022-06-15 15:16:16,457 | Order ID: 829  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:16,493 | Order ID: 829  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:16,536 | Executing order ID: 830 ACTION SELL.
+2022-06-15 15:16:16,679 | Order ID: 830  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:16,714 | Order ID: 830  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:16,761 | Executing order ID: 831 ACTION SELL.
+2022-06-15 15:16:16,908 | Order ID: 831  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:16,942 | Order ID: 831  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:16,988 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:16,988 | Executing order ID: 832 ACTION BUY.
+2022-06-15 15:16:17,032 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:17,032 | Executing order ID: 833 ACTION BUY.
+2022-06-15 15:16:17,074 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:17,074 | Executing order ID: 834 ACTION BUY.
+2022-06-15 15:16:17,118 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:17,118 | Executing order ID: 835 ACTION BUY.
+2022-06-15 15:16:17,165 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:17,165 | Executing order ID: 836 ACTION BUY.
+2022-06-15 15:16:17,207 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:17,207 | Executing order ID: 837 ACTION BUY.
+2022-06-15 15:16:17,245 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:17,245 | Executing order ID: 838 ACTION BUY.
+2022-06-15 15:16:17,287 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:17,287 | Executing order ID: 839 ACTION BUY.
+2022-06-15 15:16:17,337 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:17,337 | Executing order ID: 840 ACTION BUY.
+2022-06-15 15:16:17,380 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:17,380 | Executing order ID: 841 ACTION BUY.
+2022-06-15 15:16:17,422 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:17,422 | Executing order ID: 842 ACTION BUY.
+2022-06-15 15:16:17,472 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:17,472 | Executing order ID: 843 ACTION BUY.
+2022-06-15 15:16:17,512 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:17,512 | Executing order ID: 844 ACTION BUY.
+2022-06-15 15:16:17,564 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:17,565 | Executing order ID: 845 ACTION BUY.
+2022-06-15 15:16:17,608 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:17,608 | Executing order ID: 846 ACTION BUY.
+2022-06-15 15:16:17,653 | Executing order ID: 847 ACTION SELL.
+2022-06-15 15:16:17,808 | Order ID: 847  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:17,842 | Order ID: 847  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:17,889 | Executing order ID: 848 ACTION SELL.
+2022-06-15 15:16:18,030 | Order ID: 848  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:18,062 | Order ID: 848  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:18,106 | Executing order ID: 849 ACTION SELL.
+2022-06-15 15:16:18,250 | Order ID: 849  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:18,282 | Order ID: 849  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:18,336 | Executing order ID: 850 ACTION SELL.
+2022-06-15 15:16:18,474 | Order ID: 850  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:18,504 | Order ID: 850  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:18,550 | Executing order ID: 851 ACTION SELL.
+2022-06-15 15:16:18,689 | Order ID: 851  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:18,727 | Order ID: 851  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:18,763 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:18,763 | Executing order ID: 852 ACTION BUY.
+2022-06-15 15:16:18,812 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:18,812 | Executing order ID: 853 ACTION BUY.
+2022-06-15 15:16:18,853 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:18,853 | Executing order ID: 854 ACTION BUY.
+2022-06-15 15:16:18,895 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:18,895 | Executing order ID: 855 ACTION BUY.
+2022-06-15 15:16:18,939 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:18,939 | Executing order ID: 856 ACTION BUY.
+2022-06-15 15:16:18,981 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:18,981 | Executing order ID: 857 ACTION BUY.
+2022-06-15 15:16:19,021 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:19,021 | Executing order ID: 858 ACTION BUY.
+2022-06-15 15:16:19,072 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:19,072 | Executing order ID: 859 ACTION BUY.
+2022-06-15 15:16:19,111 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:19,111 | Executing order ID: 860 ACTION BUY.
+2022-06-15 15:16:19,158 | Executing order ID: 861 ACTION SELL.
+2022-06-15 15:16:19,297 | Order ID: 861  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:19,334 | Order ID: 861  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:19,374 | Executing order ID: 862 ACTION SELL.
+2022-06-15 15:16:19,519 | Order ID: 862  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:19,559 | Order ID: 862  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:19,603 | Executing order ID: 863 ACTION SELL.
+2022-06-15 15:16:19,736 | Order ID: 863  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:19,768 | Order ID: 863  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:19,822 | Executing order ID: 864 ACTION SELL.
+2022-06-15 15:16:19,958 | Order ID: 864  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:19,992 | Order ID: 864  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:20,032 | Executing order ID: 865 ACTION SELL.
+2022-06-15 15:16:20,174 | Order ID: 865  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:20,208 | Order ID: 865  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:20,255 | Executing order ID: 866 ACTION SELL.
+2022-06-15 15:16:20,397 | Order ID: 866  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:20,427 | Order ID: 866  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:20,473 | Executing order ID: 867 ACTION SELL.
+2022-06-15 15:16:20,620 | Order ID: 867  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:20,653 | Order ID: 867  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:20,700 | Executing order ID: 868 ACTION SELL.
+2022-06-15 15:16:20,840 | Order ID: 868  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:20,881 | Order ID: 868  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:20,919 | Executing order ID: 869 ACTION SELL.
+2022-06-15 15:16:21,057 | Order ID: 869  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:21,089 | Order ID: 869  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:21,133 | Executing order ID: 870 ACTION SELL.
+2022-06-15 15:16:21,270 | Order ID: 870  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:21,306 | Order ID: 870  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:21,353 | Executing order ID: 871 ACTION HOLD.
+2022-06-15 15:16:21,397 | Executing order ID: 872 ACTION SELL.
+2022-06-15 15:16:21,533 | Order ID: 872  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:21,571 | Order ID: 872  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:21,618 | Executing order ID: 873 ACTION SELL.
+2022-06-15 15:16:21,757 | Order ID: 873  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:21,795 | Order ID: 873  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:21,841 | Executing order ID: 874 ACTION SELL.
+2022-06-15 15:16:21,985 | Order ID: 874  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:22,019 | Order ID: 874  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:22,057 | Executing order ID: 875 ACTION SELL.
+2022-06-15 15:16:22,199 | Order ID: 875  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:22,229 | Order ID: 875  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:22,273 | Executing order ID: 876 ACTION SELL.
+2022-06-15 15:16:22,420 | Order ID: 876  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:22,451 | Order ID: 876  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:22,498 | Executing order ID: 877 ACTION SELL.
+2022-06-15 15:16:22,631 | Order ID: 877  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:22,673 | Order ID: 877  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:22,713 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:22,713 | Executing order ID: 878 ACTION BUY.
+2022-06-15 15:16:22,755 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:22,755 | Executing order ID: 879 ACTION BUY.
+2022-06-15 15:16:22,800 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:22,800 | Executing order ID: 880 ACTION BUY.
+2022-06-15 15:16:22,848 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:22,848 | Executing order ID: 881 ACTION BUY.
+2022-06-15 15:16:22,890 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:22,890 | Executing order ID: 882 ACTION BUY.
+2022-06-15 15:16:22,932 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:22,932 | Executing order ID: 883 ACTION BUY.
+2022-06-15 15:16:22,971 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:22,972 | Executing order ID: 884 ACTION BUY.
+2022-06-15 15:16:23,008 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:23,009 | Executing order ID: 885 ACTION BUY.
+2022-06-15 15:16:23,054 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:23,054 | Executing order ID: 886 ACTION BUY.
+2022-06-15 15:16:23,108 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:23,108 | Executing order ID: 887 ACTION BUY.
+2022-06-15 15:16:23,146 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:23,146 | Executing order ID: 888 ACTION BUY.
+2022-06-15 15:16:23,194 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:23,194 | Executing order ID: 889 ACTION BUY.
+2022-06-15 15:16:23,236 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:23,236 | Executing order ID: 890 ACTION BUY.
+2022-06-15 15:16:23,283 | Executing order ID: 891 ACTION SELL.
+2022-06-15 15:16:23,425 | Order ID: 891  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:23,470 | Order ID: 891  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:23,514 | Executing order ID: 892 ACTION SELL.
+2022-06-15 15:16:23,652 | Order ID: 892  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:23,682 | Order ID: 892  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:23,728 | Executing order ID: 893 ACTION SELL.
+2022-06-15 15:16:23,875 | Order ID: 893  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:23,914 | Order ID: 893  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:23,959 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:23,959 | Executing order ID: 894 ACTION BUY.
+2022-06-15 15:16:23,999 | Executing order ID: 895 ACTION SELL.
+2022-06-15 15:16:24,132 | Order ID: 895  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:24,163 | Order ID: 895  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:24,216 | Executing order ID: 896 ACTION SELL.
+2022-06-15 15:16:24,359 | Order ID: 896  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:24,398 | Order ID: 896  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:24,436 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:24,436 | Executing order ID: 897 ACTION BUY.
+2022-06-15 15:16:24,482 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:24,483 | Executing order ID: 898 ACTION BUY.
+2022-06-15 15:16:24,518 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:24,518 | Executing order ID: 899 ACTION BUY.
+2022-06-15 15:16:24,565 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:24,565 | Executing order ID: 900 ACTION BUY.
+2022-06-15 15:16:24,614 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:24,614 | Executing order ID: 901 ACTION BUY.
+2022-06-15 15:16:24,655 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:24,656 | Executing order ID: 902 ACTION BUY.
+2022-06-15 15:16:24,700 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:24,700 | Executing order ID: 903 ACTION BUY.
+2022-06-15 15:16:24,742 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:24,742 | Executing order ID: 904 ACTION BUY.
+2022-06-15 15:16:24,786 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:24,786 | Executing order ID: 905 ACTION BUY.
+2022-06-15 15:16:24,833 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:24,833 | Executing order ID: 906 ACTION BUY.
+2022-06-15 15:16:24,879 | Executing order ID: 907 ACTION SELL.
+2022-06-15 15:16:25,016 | Order ID: 907  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:25,047 | Order ID: 907  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:25,097 | Executing order ID: 908 ACTION SELL.
+2022-06-15 15:16:25,237 | Order ID: 908  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:25,270 | Order ID: 908  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:25,308 |                                                             CUMULATIVE REWARD: -0.003555302526802917.
+2022-06-15 15:16:25,308 | Executing order ID: 909 ACTION BUY.
+2022-06-15 15:16:25,366 | Executing order ID: 910 ACTION SELL.
+2022-06-15 15:16:25,571 | Order ID: 910 executed
+2022-06-15 15:16:25,571 | Entered into FLAT position.
+2022-06-15 15:16:25,571 |                                                             CUMULATIVE REWARD: -0.003372034886984787.
+2022-06-15 15:16:25,578 | Executing order ID: 911 ACTION SELL.
+2022-06-15 15:16:25,709 | Order ID: 911  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:25,744 | Order ID: 911  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:25,778 | Order ID: 911  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:25,826 | Executing order ID: 912 ACTION SELL.
+2022-06-15 15:16:25,962 | Order ID: 912  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:25,993 | Order ID: 912  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:26,038 | Executing order ID: 913 ACTION BUY.
+2022-06-15 15:16:26,167 | Order ID: 913  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:26,203 | Order ID: 913  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:26,246 | Executing order ID: 914 ACTION HOLD.
+2022-06-15 15:16:26,285 | Executing order ID: 915 ACTION HOLD.
+2022-06-15 15:16:26,333 | Executing order ID: 916 ACTION HOLD.
+2022-06-15 15:16:26,370 | Executing order ID: 917 ACTION HOLD.
+2022-06-15 15:16:26,415 | Executing order ID: 918 ACTION HOLD.
+2022-06-15 15:16:26,458 | Executing order ID: 919 ACTION HOLD.
+2022-06-15 15:16:26,504 | Executing order ID: 920 ACTION HOLD.
+2022-06-15 15:16:26,549 | Executing order ID: 921 ACTION HOLD.
+2022-06-15 15:16:26,591 | Executing order ID: 922 ACTION SELL.
+2022-06-15 15:16:26,726 | Order ID: 922  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:26,757 | Order ID: 922  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:26,801 | Executing order ID: 923 ACTION SELL.
+2022-06-15 15:16:26,936 | Order ID: 923  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:26,979 | Order ID: 923  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:27,021 | Executing order ID: 924 ACTION SELL.
+2022-06-15 15:16:27,151 | Order ID: 924  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:27,185 | Order ID: 924  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:27,224 | Executing order ID: 925 ACTION SELL.
+2022-06-15 15:16:27,381 | Order ID: 925  SIGNAL: HOLD. Discarded.
+2022-06-15 15:16:27,415 | Order ID: 925  SIGNAL: HOLD. Discarded.
